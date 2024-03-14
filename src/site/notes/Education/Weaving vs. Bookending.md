@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/education/weaving-vs-bookending/","updated":"2024-03-14T10:42:00.718+08:00"}
+{"dg-publish":true,"permalink":"/education/weaving-vs-bookending/","updated":"2024-03-14T10:47:37.152+08:00"}
 ---
 
 A common problem in graduate student writing is to make a strong argument in your introduction and conclusion, but fail to connect it to the material in the middle. I call this approach “bookending.”
 
-![bookends.jpeg](/img/user/attachments/bookends.jpeg)
+![bookends.jpeg](/img/user/Education/bookends.jpeg)
 
 This approach requires too much work of the reader, as they have to try to figure out the relationship between what is in the middle and the argument you make. In order to make it easier for them, you should repeat and elaborate the argument in relationship to each empirical example you give in the essay. I call this approach “weaving.”
 
-![weaving.jpeg](/img/user/attachments/weaving.jpeg)
+![weaving.jpeg](/img/user/Education/weaving.jpeg)
 
 Ideally you should do both weaving and bookending, but if you are writing a thesis chapter, the bookends should also help weave your chapter into the larger dissertation, connecting this chapter to the ones before and after it.
 
