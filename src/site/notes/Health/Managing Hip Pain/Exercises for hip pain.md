@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/managing-hip-pain/exercises-for-hip-pain/","updated":"2024-03-14T19:30:34.408+08:00"}
+{"dg-publish":true,"permalink":"/health/managing-hip-pain/exercises-for-hip-pain/","updated":"2024-03-14T19:38:53.729+08:00"}
 ---
 
 Below are some exercises I’ve found useful. Depending on what your problem is, some of these might be more useful than others. That, in turn, might help you with [[Health/Managing Hip Pain/Diagnosing your hip pain\|Diagnosing your hip pain]].
@@ -18,9 +18,11 @@ These are great!
 In his years of studying the spine, Dr. McGill has found there to be three specific exercises that most efficiently address all of these areas [around the spine] without placing excessive stresses on the parts of the back that may be aggravated or irritated due to injury. This group of exercises has famously become known as ‘The Big 3.’ ([source](https://squatuniversity.com/2018/06/21/the-mcgill-big-3-for-core-stability/)) - Curl-Up - Side Plank - Bird-Dog
 
 <iframe src="https://www.youtube.com/embed/2_e4I-brfqs" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Reverse hyperextension
 
 <iframe src="https://www.youtube.com/embed/DvJnmHynMfo" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Kettlebell exercises
 
 ### kettlebell front squats
