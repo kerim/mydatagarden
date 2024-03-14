@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kerim-s-digital-garden/","tags":["gardenEntry"],"updated":"2024-03-14T10:50:28.845+08:00"}
+{"dg-publish":true,"permalink":"/kerim-s-digital-garden/","tags":["gardenEntry"],"updated":"2024-03-14T11:39:20.078+08:00"}
 ---
 
 # Welcome to Kerim's Digital Garden
@@ -8,10 +8,10 @@
 >What is a "[digital garden](https://maggieappleton.com/garden-history)"?
 
 # Kerim's Other Pages
-- [Homepage](https://kerim.oxus.net/)
-- [Keywords Blog](https://keywords.oxus.net)
-- [Anthrodendum](https://anthrodendum.org/)
-- [Triptych Newsletter](https://triptych.oxus.net)
+- [Homepage](https://kerim.oxus.net/) - about me
+- [Keywords Blog](https://keywords.oxus.net) - my personal blog
+- [Anthrodendum](https://anthrodendum.org/) - former anthropology blog
+- [Triptych Newsletter](https://triptych.oxus.net) - 3 fabulous links, 3 times a month
 
 # Education
 
