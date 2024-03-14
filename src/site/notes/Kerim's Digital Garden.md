@@ -96,9 +96,9 @@
 
 
 
-- [[Technology/My digital toolkit/My digital toolkit\|My digital toolkit]]
+- [[Technology/My digital toolkit\|My digital toolkit]]
 - [[Technology/Working with Text\|Working with Text]]
-- [[Technology/Mastodon/Mastodon\|Mastodon]]
+- [[Technology/Mastodon\|Mastodon]]
 
 </div></div>
 
