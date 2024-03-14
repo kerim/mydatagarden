@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/covid-19-info/","updated":"2024-03-14T17:46:37.076+08:00"}
+{"dg-publish":true,"permalink":"/health/covid-19-info/","updated":"2024-03-14T17:48:00.524+08:00"}
 ---
 
 Information is currently changing. This was last updated on September 16, 2021.
@@ -21,7 +21,7 @@ Information is currently changing. This was last updated on September 16, 2021.
 
 ## Aerosols
 
-[https://www.youtube.com/embed/Pkd57w9lQvU](https://www.youtube.com/embed/Pkd57w9lQvU)
+<iframe src="https://www.youtube.com/embed/Pkd57w9lQvU" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - [2021 Aerosol Science Research Center (ASRC), National Sun Yat-sen University, Taiwan. Explainer Comics: The Quest of the Virosols](http://aerosol.nsysu.edu.tw/en/scopes/108)
 - [2021/06/27 Jeremy Chrysler: Why admitting Covid is Airborne is so hard.](https://theair.substack.com/p/why-covid-is-airborne-history)
