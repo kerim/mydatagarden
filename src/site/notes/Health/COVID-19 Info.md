@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/covid-19-info/","updated":"2024-03-13T18:33:01.075+08:00"}
+{"dg-publish":true,"permalink":"/health/covid-19-info/","updated":"2024-03-14T17:42:46.221+08:00"}
 ---
 
 Information is currently changing. This was last updated on September 16, 2021.
@@ -10,7 +10,7 @@ Information is currently changing. This was last updated on September 16, 2021.
     - As of July 6, the CDC reported 5,186 cases of breakthrough Covid-19 cases that led to severe disease among 157 million fully vaccinated people in the US. That’s about a 0.003 percent breakthrough rate for severe disease…
 - Why you can’t compare COVID-19 Vaccines
     
-    [https://www.youtube.com/embed/K3odScka55A](https://www.youtube.com/embed/K3odScka55A)
+    ![](https://www.youtube.com/embed/K3odScka55A)
     
 - [2020/03/19 Nature: Mix-and-match COVID vaccines trigger potent immune response](https://www.nature.com/articles/d41586-021-01359-3)
 
