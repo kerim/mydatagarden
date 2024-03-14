@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/kerim-s-digital-garden/","tags":["gardenEntry"],"updated":"2024-03-14T10:28:44.056+08:00"}
+{"dg-publish":true,"permalink":"/kerim-s-digital-garden/","tags":["gardenEntry"],"updated":"2024-03-14T10:50:28.845+08:00"}
 ---
-
 
 # Welcome to Kerim's Digital Garden
 
@@ -30,6 +29,7 @@
 - [[Education/When a word isn't in the dictionary\|When a word isn't in the dictionary]]
 - [[Taiwan/International Graduate Study in Taiwan\|International Graduate Study in Taiwan]] 
 	- (with a focus on Austronesian/Indigenous studies)
+- [[Education/Weaving vs. Bookending\|Weaving vs. Bookending]]
 
 </div></div>
 
