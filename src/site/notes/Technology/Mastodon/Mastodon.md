@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/technology/mastodon/mastodon/","updated":"2024-03-13T10:54:51.285+08:00"}
+{"dg-publish":true,"permalink":"/technology/mastodon/mastodon/","updated":"2024-03-14T11:03:38.874+08:00"}
 ---
 
 Trying out a new social network really isn’t that scary. It is free, painless, and you can always keep using whatever you are used to if you like. Hopefully some of the links on this page will make it a bit easier to get started with Mastodon.
 
-![[FgheRGBaAAAFnI7.jpeg\|FgheRGBaAAAFnI7.jpeg]]
+![mastodon meme.jpeg](/img/user/Technology/Mastodon/_media/mastodon%20meme.jpeg)
 
 # What is Mastodon?
 
