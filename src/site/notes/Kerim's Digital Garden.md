@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/kerim-s-digital-garden/","tags":["gardenEntry"],"updated":"2024-03-14T11:39:20.078+08:00"}
+{"dg-publish":true,"permalink":"/kerim-s-digital-garden/","tags":["gardenEntry"],"updated":"2024-03-14T11:56:23.712+08:00"}
 ---
 
 # Welcome to Kerim's Digital Garden
+
+![DALL·E 2024-03-14 11.55.54 - Imagine a wide, landscape-oriented digital garden that perfectly balances an inviting atmosphere with clear digital elements. The garden should exude .webp](/img/user/_media/DALL%C2%B7E%202024-03-14%2011.55.54%20-%20Imagine%20a%20wide,%20landscape-oriented%20digital%20garden%20that%20perfectly%20balances%20an%20inviting%20atmosphere%20with%20clear%20digital%20elements.%20The%20garden%20should%20exude%20.webp)
 
 >[!info]
 >What is a "[digital garden](https://maggieappleton.com/garden-history)"?
