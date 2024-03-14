@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/taiwan/taiwan-garbage-music/","updated":"2024-03-14T19:32:09.662+08:00"}
+{"dg-publish":true,"permalink":"/taiwan/taiwan-garbage-music/","updated":"2024-03-14T19:38:16.310+08:00"}
 ---
 
 Taiwan is famous for its garbage trucks and the music they play. Here is a list or related articles and videos:
@@ -7,9 +7,11 @@ Taiwan is famous for its garbage trucks and the music they play. Here is a list 
 ## 美女跳芭蕾倒垃圾 Taiwan Garbage Ballerina
 
 <iframe src="https://www.youtube.com/embed/inKgugNboLI" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Waterman+鄭焙檍 我愛愛麗絲
 
 <iframe src="https://www.youtube.com/embed/JIxUN9Bol_M" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## News Stories
 
 - [In Taiwan, When You Hear Beethoven, It’s Time to Take Out the Trash - The New York Times](https://www.nytimes.com/2022/02/08/world/asia/taiwan-waste-management-beethoven.html)
