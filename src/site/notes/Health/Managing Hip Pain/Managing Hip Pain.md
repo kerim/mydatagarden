@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/managing-hip-pain/managing-hip-pain/","updated":"2024-03-13T10:54:51.193+08:00"}
+{"dg-publish":true,"permalink":"/health/managing-hip-pain/managing-hip-pain/","updated":"2024-03-14T11:02:42.888+08:00"}
 ---
 
 For years I’ve struggled with hip pain. Like the story of the blind men and the elephant, doctors tend to see my issues through the lens of their own area of specialization, making it hard to get a good diagnosis. Finally, frustrated as the problem got worse and worse, I turned to YouTube* and now, for the first time in decades, I can feel that I’m on the mend. (*See a list of my favorite YouTue channels under [[Health/Resources\|Resources]].)
@@ -35,7 +35,7 @@ I keep updating my daily routine. These are exercises I do each morning to impro
 
 I bought [a pair of wide-toe-box, zero-drop shoes](https://www.altrarunning.com/launch/2022/lone-peak-6.html) when I was in NY and love them. Instantly improved my walking, and I was especially happy to learn one can buy shoes like this which aren't "barefoot" shoes, but actually have some cushioning. If I had already improved my walking by 80% through physical therapy, switching shoes improved things by another 15% the second I started using them. I went back the next week and bought a second pair.
 
-![[your-feet-in-wide-vs-narrow-shoes-great-visual-from-altra-running.jpeg\|your-feet-in-wide-vs-narrow-shoes-great-visual-from-altra-running.jpeg]]
+![shoe x-ray.jpeg](/img/user/Health/Managing%20Hip%20Pain/_media/shoe%20x-ray.jpeg)
 
 ## Diagnosis, Causes, and Quick Relief
 
