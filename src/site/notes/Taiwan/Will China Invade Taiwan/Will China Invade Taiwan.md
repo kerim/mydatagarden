@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/taiwan/will-china-invade-taiwan/will-china-invade-taiwan/","updated":"2024-03-13T10:54:52.379+08:00"}
+{"dg-publish":true,"permalink":"/taiwan/will-china-invade-taiwan/will-china-invade-taiwan/","updated":"2024-03-14T11:04:26.507+08:00"}
 ---
 
-![[56C4B6BF-CA2C-4E9A-B263-42DE1A0184B7.jpeg\|56C4B6BF-CA2C-4E9A-B263-42DE1A0184B7.jpeg]]
-
-  
+![my taiwan meme.jpeg](/img/user/Taiwan/Will%20China%20Invade%20Taiwan/_media/my%20taiwan%20meme.jpeg)
 
 I personally think China currently has a lot to gain from convincing the world that it will (someday) invade Taiwan, and a lot to lose from actually doing such a thing, so I’m not particularly worried. Which isn’t to dismiss the harm caused by China’s attempts to undermine Taiwanese sovereignty.
 
