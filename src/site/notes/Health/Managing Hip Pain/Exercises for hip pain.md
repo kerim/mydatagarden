@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/managing-hip-pain/exercises-for-hip-pain/","updated":"2024-03-13T10:54:50.261+08:00"}
+{"dg-publish":true,"permalink":"/health/managing-hip-pain/exercises-for-hip-pain/","updated":"2024-03-14T18:52:00.884+08:00"}
 ---
 
 Below are some exercises I’ve found useful. Depending on what your problem is, some of these might be more useful than others. That, in turn, might help you with [[Health/Managing Hip Pain/Diagnosing your hip pain\|Diagnosing your hip pain]].
@@ -11,63 +11,48 @@ Note, these are all supplementary exercises, not to be confused with a basic str
 ## Update
 
 These are great!
+<iframe src="https://www.youtube.com/embed/12NGWxpDlr8" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[https://www.youtube.com/watch?v=12NGWxpDlr8](https://www.youtube.com/watch?v=12NGWxpDlr8)
-
-  
-
-  
-
-## The Big 3
+  ## The Big 3
 
 In his years of studying the spine, Dr. McGill has found there to be three specific exercises that most efficiently address all of these areas [around the spine] without placing excessive stresses on the parts of the back that may be aggravated or irritated due to injury. This group of exercises has famously become known as ‘The Big 3.’ ([source](https://squatuniversity.com/2018/06/21/the-mcgill-big-3-for-core-stability/)) - Curl-Up - Side Plank - Bird-Dog
 
-[https://www.youtube.com/embed/2_e4I-brfqs](https://www.youtube.com/embed/2_e4I-brfqs)
-
+<iframe src="https://www.youtube.com/embed/2_e4I-brfqs" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ## Reverse hyperextension
 
-[https://www.youtube.com/embed/DvJnmHynMfo](https://www.youtube.com/embed/DvJnmHynMfo)
-
+<iframe src="https://www.youtube.com/embed/DvJnmHynMfo" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ## Kettlebell exercises
 
 ### kettlebell front squats
 
-[https://www.youtube.com/embed/6XghYOzny8U](https://www.youtube.com/embed/6XghYOzny8U)
-
+<iframe src="https://www.youtube.com/embed/6XghYOzny8U" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ### kettle ball swings
 
-[https://www.youtube.com/embed/Buz6gaVzVZs](https://www.youtube.com/embed/Buz6gaVzVZs)
-
+<iframe src="https://www.youtube.com/embed/Buz6gaVzVZs" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ## Hip Airplane
 
-[https://www.youtube.com/embed/GEWobyNjHak](https://www.youtube.com/embed/GEWobyNjHak)
-
+<iframe src="https://www.youtube.com/embed/GEWobyNjHak" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ### Easier version with progression if that is too hard:
 
-[https://www.youtube.com/embed/ZWCzj64_EAA](https://www.youtube.com/embed/ZWCzj64_EAA)
-
+<iframe src="https://www.youtube.com/embed/ZWCzj64_EAA" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Article on [the Hip Airplane](https://squatuniversity.com/2018/05/06/the-hip-airplane/) by Squat University
 
 ## Pallof Press Lateral Walk
 
 Turns out this (along with side planks) is really great for core stability and that helps one’s hips as well.
 
-[https://www.youtube.com/embed/GYDLHNb-2pA](https://www.youtube.com/embed/GYDLHNb-2pA)
-
+<iframe src="https://www.youtube.com/embed/GYDLHNb-2pA" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ## Pistol Squat
 
 [6 Steps To Perfecting Your Pistol Squat – Squat University](https://squatuniversity.com/2016/06/24/6-steps-to-perfecting-your-pistol-squat/)
 
-[https://www.youtube.com/embed/vq5-vdgJc0I](https://www.youtube.com/embed/vq5-vdgJc0I)
-
+<iframe src="https://www.youtube.com/embed/vq5-vdgJc0I" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ## Monster Walk
 
-[https://www.youtube.com/embed/GoKWXHF2NJY](https://www.youtube.com/embed/GoKWXHF2NJY)
-
+<iframe src="https://www.youtube.com/embed/GoKWXHF2NJY" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ## How to Fix A Groin Pull (Adductor Strain)
 
-[https://www.youtube.com/embed/T0udy4rQwwU](https://www.youtube.com/embed/T0udy4rQwwU)
-
+<iframe src="https://www.youtube.com/embed/T0udy4rQwwU" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ## Isometric Hip Flexion
 
 After doing some work to loosen up your hip flexors, do these isometric flexion exercises
@@ -76,8 +61,7 @@ After doing some work to loosen up your hip flexors, do these isometric flexion 
 
 ## Clamshells
 
-[https://www.youtube.com/embed/m_ZPapmqeNM](https://www.youtube.com/embed/m_ZPapmqeNM)
-
+<iframe src="https://www.youtube.com/embed/m_ZPapmqeNM" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ## Glute Exercises
 
 [Instagram post with five great glute exercises.](https://www.instagram.com/reel/CYZRNkRqcu0/?utm_source=ig_embed&amp;utm_campaign=loading)
