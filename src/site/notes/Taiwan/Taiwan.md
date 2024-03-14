@@ -4,7 +4,7 @@
 
 
 - [[Taiwan/Taiwan History\|Taiwan History]]
-- [[Taiwan/Will China Invade Taiwan/Will China Invade Taiwan\|Will China Invade Taiwan]]
+- [[Taiwan/Will China Invade Taiwan\|Will China Invade Taiwan]]
 - [[Taiwan/Taiwan Garbage Music\|Taiwan Garbage Music]]
 - [[Taiwan/Academic Jobs in Taiwan\|Academic Jobs in Taiwan]]
 - [[Taiwan/English Language News on Taiwan\|English Language News on Taiwan]]
