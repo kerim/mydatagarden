@@ -11,56 +11,56 @@ Note, these are all supplementary exercises, not to be confused with a basic str
 ## Update
 
 These are great!
-<iframe src="https://www.youtube.com/embed/12NGWxpDlr8" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=12NGWxpDlr8)
 
 ## The Big 3
 
 In his years of studying the spine, Dr. McGill has found there to be three specific exercises that most efficiently address all of these areas [around the spine] without placing excessive stresses on the parts of the back that may be aggravated or irritated due to injury. This group of exercises has famously become known as ‘The Big 3.’ ([source](https://squatuniversity.com/2018/06/21/the-mcgill-big-3-for-core-stability/)) - Curl-Up - Side Plank - Bird-Dog
 
-<iframe src="https://www.youtube.com/embed/2_e4I-brfqs" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/embed/2_e4I-brfqs)
 
 ## Reverse hyperextension
 
-<iframe src="https://www.youtube.com/embed/DvJnmHynMfo" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/embed/DvJnmHynMfo)
 
 ## Kettlebell exercises
 
 ### kettlebell front squats
 
-<iframe src="https://www.youtube.com/embed/6XghYOzny8U" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/embed/6XghYOzny8U)
 
 ### kettle ball swings
 
-<iframe src="https://www.youtube.com/embed/Buz6gaVzVZs" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/embed/Buz6gaVzVZs)
 
 ## Hip Airplane
 
-<iframe src="https://www.youtube.com/embed/GEWobyNjHak" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/embed/GEWobyNjHak)
 
 ### Easier version with progression if that is too hard:
 
-<iframe src="https://www.youtube.com/embed/ZWCzj64_EAA" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/embed/ZWCzj64_EAA)
 Article on [the Hip Airplane](https://squatuniversity.com/2018/05/06/the-hip-airplane/) by Squat University
 
 ## Pallof Press Lateral Walk
 
 Turns out this (along with side planks) is really great for core stability and that helps one’s hips as well.
 
-<iframe src="https://www.youtube.com/embed/GYDLHNb-2pA" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/embed/GYDLHNb-2pA)
 
 ## Pistol Squat
 
 [6 Steps To Perfecting Your Pistol Squat – Squat University](https://squatuniversity.com/2016/06/24/6-steps-to-perfecting-your-pistol-squat/)
 
-<iframe src="https://www.youtube.com/embed/vq5-vdgJc0I" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/embed/vq5-vdgJc0I)
 
 ## Monster Walk
 
-<iframe src="https://www.youtube.com/embed/GoKWXHF2NJY" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/embed/GoKWXHF2NJY)
 
 ## How to Fix A Groin Pull (Adductor Strain)
 
-<iframe src="https://www.youtube.com/embed/T0udy4rQwwU" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/embed/T0udy4rQwwU)
 
 ## Isometric Hip Flexion
 
@@ -70,7 +70,7 @@ After doing some work to loosen up your hip flexors, do these isometric flexion 
 
 ## Clamshells
 
-<iframe src="https://www.youtube.com/embed/m_ZPapmqeNM" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/embed/m_ZPapmqeNM)
 
 ## Glute Exercises
 
