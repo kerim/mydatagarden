@@ -6,11 +6,11 @@ Taiwan is famous for its garbage trucks and the music they play. Here is a list 
 
 ## 美女跳芭蕾倒垃圾 Taiwan Garbage Ballerina
 
-<iframe src="https://www.youtube.com/embed/inKgugNboLI" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/embed/inKgugNboLI)
 
 ## Waterman+鄭焙檍 我愛愛麗絲
 
-<iframe src="https://www.youtube.com/embed/JIxUN9Bol_M" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/embed/JIxUN9Bol_M)
 
 ## News Stories
 
