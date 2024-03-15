@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/my-digital-toolkit/","updated":"2024-03-14T19:44:05.408+08:00"}
+{"dg-publish":true,"permalink":"/technology/my-digital-toolkit/","updated":"2024-03-15T17:44:27.184+08:00"}
 ---
 
 
@@ -56,6 +56,5 @@ While most of my advisors managed to be much more productive than I ever will be
     - Uses a powerful AI engine to automatically transcribe text.
 - This website: [Obsidian](https://obsidian.md/) plus the [Obsidian Digital Garden](https://dg-docs.ole.dev/) plugin
 	- The instructions call for hosting on Vercel, but you can also use Netifly, which works better for me for some reason
-- My home page and teaching websites: [Notion](https://www.notion.so/)
+- My teaching websites: [Notion](https://www.notion.so/)
     - Notion makes editing the website as easy as editing a document in your word processor. I also use it to make dedicated pages for each of the classes I teach - accessible only to the students in that class.
-    - Unfortunately, Notion websites are not well indexed by search engines, and don’t let you use your own domain name. There are some [free tools](https://fruitionsite.com/) to fix this, but I found them hard to use, so I signed up with [Simple.Ink](https://simple.ink/).
