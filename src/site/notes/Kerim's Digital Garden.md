@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kerim-s-digital-garden/","tags":["gardenEntry"],"updated":"2024-03-14T11:56:23.712+08:00"}
+{"dg-publish":true,"permalink":"/kerim-s-digital-garden/","tags":["gardenEntry"],"updated":"2024-03-15T11:21:24.511+08:00"}
 ---
 
 # Welcome to Kerim's Digital Garden
@@ -14,6 +14,12 @@
 - [Keywords Blog](https://keywords.oxus.net) - my personal blog
 - [Anthrodendum](https://anthrodendum.org/) - former anthropology blog
 - [Triptych Newsletter](https://triptych.oxus.net) - 3 fabulous links, 3 times a month
+
+# Highlights 
+- [[Technology/My digital toolkit\|My digital toolkit]]
+- [[Health/Managing Hip Pain/Managing Hip Pain\|Managing Hip Pain]]
+- [[Taiwan/International Graduate Study in Taiwan\|International Graduate Study in Taiwan]] 
+- [[Education/Indigenous Style Guides\|Indigenous Style Guides]]
 
 # Education
 
