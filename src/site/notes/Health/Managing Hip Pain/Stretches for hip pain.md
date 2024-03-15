@@ -10,33 +10,33 @@ There is also a whole category of movements called “mobility exercises” whic
 
 - Although I think there are some useful stretches you can (and should) do, some suggested by the same people in these videos, you should watch to learn why (just) stretching your hip flexors is not the best way to go.
     
-    <iframe src="https://www.youtube.com/embed/sTre4xSTuto" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
-    <iframe src="https://www.youtube.com/embed/KCADorwJ6Ik" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
-    <iframe src="https://www.youtube.com/embed/S4q2KfF7z1E" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+    ![](https://www.youtube.com/embed/sTre4xSTuto)    
+    ![](https://www.youtube.com/embed/KCADorwJ6Ik)    
+    ![](https://www.youtube.com/embed/S4q2KfF7z1E)    
 
 ## Stretches
 
 - Ultimate hip flexor and quad stretch for back pain and hip pain
     
-    <iframe src="https://www.youtube.com/embed/OQr-yE86AHk" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+    ![](https://www.youtube.com/embed/OQr-yE86AHk)    
 - Top 3 Self-Treatments for Piriformis Syndrome: A Type of Sciatica
     
-    <iframe src="https://www.youtube.com/embed/ZEqRoCJ6UAY" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+    ![](https://www.youtube.com/embed/ZEqRoCJ6UAY)    
 - Ultimate Hip Flexor (Psoas) Stretches x3 Standing, Kneeling, or Lying
     
-    <iframe src="https://www.youtube.com/embed/-2vO8QfdLFg" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+    ![](https://www.youtube.com/embed/-2vO8QfdLFg)    
 - Resistance stretching for hip flexors
     
-    <iframe src="https://www.youtube.com/embed/9zvEWGKt3xw" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+    ![](https://www.youtube.com/embed/9zvEWGKt3xw)    
 - 4 stretches to do everyday
     
-    <iframe src="https://www.youtube.com/embed/SoFxooQZVlQ" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+    ![](https://www.youtube.com/embed/SoFxooQZVlQ)    
 - Mitigate Tension - Chair Resistance Stretch for your Quadriceps and Hip Flexors
     
-    <iframe src="https://www.youtube.com/embed/6aOs23v4hNs" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+    ![](https://www.youtube.com/embed/6aOs23v4hNs)    
 - Hip Mobility Sequence on Chair (actually more stretches than mobility exercises, but I really like these a lot)
     
-    <iframe src="https://www.youtube.com/embed/FaQiDy9ci04" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+    ![](https://www.youtube.com/embed/FaQiDy9ci04)    
 - Half Kneeling Adductor Stretch
     
     [https://www.youtube.com/embed/BxNKK1Ic0Vk?start=19](https://www.youtube.com/embed/BxNKK1Ic0Vk?start=19)
@@ -46,13 +46,13 @@ There is also a whole category of movements called “mobility exercises” whic
 
 - I’ve found this routine very helpful for increasing mobility in my hips:
     
-    <iframe src="https://www.youtube.com/embed/BqF90pMpjb4" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+    ![](https://www.youtube.com/embed/BqF90pMpjb4)    
 - Kinstretch Class For Tight Hips (Beginners Welcome!)
     
-    <iframe src="https://www.youtube.com/embed/VHfaGtkJz2o" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+    ![](https://www.youtube.com/embed/VHfaGtkJz2o)    
 - Hip Mobility for a PERFECT Squat
     
-    <iframe src="https://www.youtube.com/embed/888Fod2Fcmo" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+    ![](https://www.youtube.com/embed/888Fod2Fcmo)    
 - Top 3 Ankle Mobility Exercises
     
     [https://www.youtube.com/embed/IikP_teeLkI](https://www.youtube.com/embed/IikP_teeLkI)
