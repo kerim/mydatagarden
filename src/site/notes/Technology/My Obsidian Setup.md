@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-03-17T11:26:57.101+08:00"}
+{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-03-17T11:47:28.628+08:00"}
 ---
 
 A list of extensions I use to make Obsidian work well as a long-form writing app.
@@ -13,29 +13,38 @@ A list of extensions I use to make Obsidian work well as a long-form writing app
 - [Pandoc Reference List](https://github.com/mgmeyers/obsidian-pandoc-reference-list)
     - Format and list all in-text citations. Autocomplete from Zotero API.
 - [Templater](https://github.com/SilentVoid13/Templater)
-    - Create default templates. Haven't tried yet
-- [Writing Goals](https://github.com/lynchjames/obsidian-writing-goals)
-    - Similar to what Ulysses offers
+    - Create default templates. Haven't actually used this yet, but it seems useful
 
-## Task management
+## Productivity
 
 - [Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks)
     - View all tasks in vault, grouped by file
-
+- [Toggl Track](https://github.com/mcndt/obsidian-toggl-integration)
+	- Can keep track of how much time you spend writing
+- [Writing Goals](https://github.com/lynchjames/obsidian-writing-goals)
+    - Similar to what Ulysses offers. Useful if you want to reach a particular word count each day.
+- [Focus Mode](https://github.com/ryanpcmcquen/obsidian-focus-mode)
+    - Quickly toggle focus mode to hide distractions
 ## Styling and UX
 
 - [iA Writer theme](https://github.com/mrowa44/obsidian-ia-writer)
     - some conflicts with the task checkbox styling so I had to add some custom CSS snippets, see below.
-- [Focus Mode](https://github.com/ryanpcmcquen/obsidian-focus-mode)
-    - Quickly toggle focus mode
 - [MySnippits](https://github.com/chetachiezikeuzor/MySnippets-Plugin)
     - Add and manage css snippits. Currently using for snippet that formats task checkboxes.
 - [Typewriter Mode](https://github.com/davisriedel/obsidian-typewriter-mode)
     - Keep text in center and fade other paragraphs
 - [Workspace Plus](https://github.com/nothingislost/obsidian-workspaces-plus)
-    - Maintain multiple obsidian workspaces
+    - Maintain multiple obsidian workspaces. Another one I haven't actually used yet.
 - [Zoom](https://github.com/vslinko/obsidian-zoom)
     - Zoom in on header like an outliner
+- [Filename Heading Sync](https://github.com/dvcrn/obsidian-filename-heading-sync)
+	- Makes the first heading match the file name. Can be useful for finding things later on if you change the title of the document.
+- [Folder Focus Mode](https://github.com/grochowski/obsidian-folder-focus-mode)
+	- Different from "Focus Mode" above, this is for your file list, and zooms in on the current folder.
+- [Home tab](https://github.com/olrenso/obsidian-home-tab)
+	- Gives you a start page, a bit like a web browser.
+- [Recent Files](https://github.com/tgrosinger/recent-files-obsidian)
+	- Adds a tab to show recent files
 
 ## Export
 
