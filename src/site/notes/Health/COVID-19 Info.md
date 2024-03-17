@@ -10,7 +10,7 @@ Information is currently changing. This was last updated on September 16, 2021.
     - As of July 6, the CDC reported 5,186 cases of breakthrough Covid-19 cases that led to severe disease among 157 million fully vaccinated people in the US. That’s about a 0.003 percent breakthrough rate for severe disease…
 - Why you can’t compare COVID-19 Vaccines
     
-    ![](https://www.youtube.com/watch?v=K3odScka55A)
+    <iframe src="https://www.youtube.com/embed/K3odScka55A" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     
 - [2020/03/19 Nature: Mix-and-match COVID vaccines trigger potent immune response](https://www.nature.com/articles/d41586-021-01359-3)
 
@@ -21,7 +21,7 @@ Information is currently changing. This was last updated on September 16, 2021.
 
 ## Aerosols
 
-![](https://www.youtube.com/watch?v=Pkd57w9lQvU)
+<iframe src="https://www.youtube.com/embed/Pkd57w9lQvU" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - [2021 Aerosol Science Research Center (ASRC), National Sun Yat-sen University, Taiwan. Explainer Comics: The Quest of the Virosols](http://aerosol.nsysu.edu.tw/en/scopes/108)
 - [2021/06/27 Jeremy Chrysler: Why admitting Covid is Airborne is so hard.](https://theair.substack.com/p/why-covid-is-airborne-history)
