@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/my-digital-toolkit/","updated":"2024-03-15T17:44:27.184+08:00"}
+{"dg-publish":true,"permalink":"/technology/my-digital-toolkit/","updated":"2024-03-17T11:25:59.007+08:00"}
 ---
 
 
@@ -15,7 +15,7 @@ While most of my advisors managed to be much more productive than I ever will be
 - Writing: [Obsidian](https://obsidian.md/)
     - While Logseq is good for capturing and linking ideas, when I need to start writing something longer I prefer to use Obsidian.
     - Out of the box Obsidian is not really set up for this, and it requires some patience to get things set up for long form writing, but the large number of community-built extensions means that you have a lot of control over your work environment.
-    - [My Obsidian Setup](https://www.notion.so/My-Obsidian-Setup-1348d1a7016b4a17bcec0feb03cf82c5?pvs=21) (This page lists the extensions I currently use and what each of them does.)
+    - [[Technology/My Obsidian Setup\|My Obsidian Setup]] (This page lists the extensions I currently use and what each of them does.)
     - Some people prefer [Scrivener](https://www.literatureandlatte.com/scrivener/overview). In the past I’ve used [Ulysses](https://ulysses.app/) and [Zettlr](https://www.zettlr.com) as well.
 - Reference management: [Zotero](https://www.zotero.org)
     - Zotero is an open source bibliographic manager with apps on nearly every platform as well as a full featured web app. They also have an API that allows other apps to query your library in Zotero. And it is possible to set up private and public groups for sharing your library. With the latest update (version 6.0) Zotero has become easier to use and now features a full-fledged PDF reader as well.
