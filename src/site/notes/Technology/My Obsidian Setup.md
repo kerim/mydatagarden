@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-03-17T11:47:28.628+08:00"}
+{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-03-17T13:02:03.277+08:00"}
 ---
 
 A list of extensions I use to make Obsidian work well as a long-form writing app.
@@ -14,6 +14,8 @@ A list of extensions I use to make Obsidian work well as a long-form writing app
     - Format and list all in-text citations. Autocomplete from Zotero API.
 - [Templater](https://github.com/SilentVoid13/Templater)
     - Create default templates. Haven't actually used this yet, but it seems useful
+- [Obsidian Footnote Shortcut](https://github.com/akaalias/obsidian-footnotes/tree/0.0.5)
+	- Not sure this is useful for academic writing? But it is great for writing blog posts if you want markdown styled footnotes in your post.
 
 ## Productivity
 
@@ -25,14 +27,14 @@ A list of extensions I use to make Obsidian work well as a long-form writing app
     - Similar to what Ulysses offers. Useful if you want to reach a particular word count each day.
 - [Focus Mode](https://github.com/ryanpcmcquen/obsidian-focus-mode)
     - Quickly toggle focus mode to hide distractions
+- [Typewriter Mode](https://github.com/davisriedel/obsidian-typewriter-mode)
+    - Keep text in center and fade other paragraphs
 ## Styling and UX
 
 - [iA Writer theme](https://github.com/mrowa44/obsidian-ia-writer)
     - some conflicts with the task checkbox styling so I had to add some custom CSS snippets, see below.
 - [MySnippits](https://github.com/chetachiezikeuzor/MySnippets-Plugin)
     - Add and manage css snippits. Currently using for snippet that formats task checkboxes.
-- [Typewriter Mode](https://github.com/davisriedel/obsidian-typewriter-mode)
-    - Keep text in center and fade other paragraphs
 - [Workspace Plus](https://github.com/nothingislost/obsidian-workspaces-plus)
     - Maintain multiple obsidian workspaces. Another one I haven't actually used yet.
 - [Zoom](https://github.com/vslinko/obsidian-zoom)
@@ -45,6 +47,8 @@ A list of extensions I use to make Obsidian work well as a long-form writing app
 	- Gives you a start page, a bit like a web browser.
 - [Recent Files](https://github.com/tgrosinger/recent-files-obsidian)
 	- Adds a tab to show recent files
+- [Tree Focus](https://github.com/iOSonntag/obsidian-plugin-treefocus)
+	- Adds some formatting to highlight or dim items in your file tree
 
 ## Export
 
@@ -52,6 +56,8 @@ A list of extensions I use to make Obsidian work well as a long-form writing app
     - One click export file to the Blot drafts folder
 - [Pandoc Plugin](https://github.com/OliverBalfour/obsidian-pandoc)
     - For exporting to word documents or PDF. Not tested yet.
+- [Send to Ghost](https://github.com/Southpaw1496/obsidian-send-to-ghost)
+	- I use this for writing my newsletter, which is hosted on Ghost.
 
 ## Misc.
 
