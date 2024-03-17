@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-03-17T13:02:03.277+08:00"}
+{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-03-17T17:37:11.834+08:00"}
 ---
 
-A list of extensions I use to make Obsidian work well as a long-form writing app.
+A list of extensions I use to make Obsidian work well as a long-form writing app. See [[Technology/My digital toolkit\|My digital toolkit]] for an overview of how I use Obsidian for my work. 
 
 ## Long Form Writing
 
