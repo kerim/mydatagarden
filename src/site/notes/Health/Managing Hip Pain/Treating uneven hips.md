@@ -6,17 +6,17 @@ Most people’s hips are a little uneven, but in some cases it can be worse than
 
 ## How to Self Correct a High Hip in 30 SECONDS
 
-![](https://www.youtube.com/embed/krGkT8NymA4)
+<iframe src="https://www.youtube.com/embed/krGkT8NymA4" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## How to Fix a Rotated Pelvis in SECONDS
 
-![](https://www.youtube.com/embed/7DCjVRnO-AA)
+<iframe src="https://www.youtube.com/embed/7DCjVRnO-AA" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## How to Fix a Crooked Pelvis
 
-![](https://www.youtube.com/embed/j2tJ6RZ3Xi0)
+<iframe src="https://www.youtube.com/embed/j2tJ6RZ3Xi0" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## How To Unf*ck Your Hips In 10 Minutes 
 (This one is more similar to some of the ones you’ll see on my page [[Health/Managing Hip Pain/Exercises for hip pain\|Exercises for hip pain]])
 
-![](https://www.youtube.com/embed/ZkhbkK53OgA)
+<iframe src="https://www.youtube.com/embed/ZkhbkK53OgA" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
