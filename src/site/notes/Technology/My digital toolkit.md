@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/my-digital-toolkit/","updated":"2024-03-17T11:25:59.007+08:00"}
+{"dg-publish":true,"permalink":"/technology/my-digital-toolkit/","updated":"2024-03-19T10:10:47.108+08:00"}
 ---
 
 
@@ -58,3 +58,5 @@ While most of my advisors managed to be much more productive than I ever will be
 	- The instructions call for hosting on Vercel, but you can also use Netifly, which works better for me for some reason
 - My teaching websites: [Notion](https://www.notion.so/)
     - Notion makes editing the website as easy as editing a document in your word processor. I also use it to make dedicated pages for each of the classes I teach - accessible only to the students in that class.
+- My [Triptych](https://triptych.oxus.net/) newsletter: [Ghost](https://ghost.org/)
+	- While Substack is a more popular platform, I do not wish to support them, [for reasons](https://wiczipedia.substack.com/p/the-substack-conundrum)... I also find Ghost easy to integrate into my text based workflow. See, for instance, [[Technology/My Obsidian Setup\|My Obsidian Setup]] lists a plugin for publishing to Ghost.
