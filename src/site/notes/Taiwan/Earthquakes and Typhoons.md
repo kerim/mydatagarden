@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/taiwan/earthquakes-and-typhoons/","updated":"2024-04-04T14:00:52.180+08:00"}
+{"dg-publish":true,"permalink":"/taiwan/earthquakes-and-typhoons/","updated":"2024-04-04T14:02:47.064+08:00"}
 ---
 
 ## What to do in an emergency
@@ -24,9 +24,9 @@ Earthquake
 ### Why do so many earthquakes happen in Hualien, specifically?
 
 > When an earthquake happens, we want to know which fault (or faults) ruptured. Sometimes, it is really obvious because there is only one fault in the region. 
-
+>
 > That is not the case in Taiwan.
-
+>
 > How exactly those two subduction zones end at Taiwan, and how other faults are accommodating the relative motion between the Philippine Sea Plate and the Eurasian Plate, is extremely complicated. The entire country is essentially a zone of active collision and uplift. One large fault system dips eastward beneath the high mountain chain - this is the fault system that produced the 1999 earthquake. The recent M7.4 occurred instead to the east, on a fault within a complicated wedge system, where the Philippine Sea Plate is shouldering its way into and past the accretionary wedge, but not subducting beneath it.
 
 ![taiwan tectonics.jpg](/img/user/Taiwan/_media/taiwan%20tectonics.jpg)
