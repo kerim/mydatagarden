@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/taiwan/earthquakes-and-typhoons/","updated":"2024-04-03T10:15:35.362+08:00"}
+{"dg-publish":true,"permalink":"/taiwan/earthquakes-and-typhoons/","updated":"2024-04-04T14:00:52.180+08:00"}
 ---
 
 ## What to do in an emergency
@@ -19,4 +19,16 @@ Earthquake
 
 ##  What is the frequency of earthquake occurrence in Taiwan?
 
-Since Taiwan is located on the circum-Pacific seismic zone \[aka the "ring of fire'], earthquake occurrence is quite frequent, and strong earthquakes occur quite often as well. According to the Central Weather Administration's earthquake monitoring information between 1900~1990, the average number of earthquakes in Taiwan is approximately 2,200 per year, of which, approximately 214 can be felt. After the major renewal of the CWB Seismic Network in 1991, the ability of earthquake detection improved drastically. The annual average number of earthquakes recorded from 1991 to 2004 increased to 18,649 (monthly average was approximately 1,554), of which approximately 1,047 were felt. In 1999, Taiwan had the highest number of earthquakes, mainly due to the influence of the Jiji (Chi-Chi) earthquake; there were 49,919 earthquakes, including 3,003 quakes felt. Based on the statistical analysis of catastrophic earthquake information, there have been 96 catastrophic earthquakes since 1900. ([source](https://scweb.cwb.gov.tw/en-US/Guidance/FAQdetail/190))
+> Since Taiwan is located on the circum-Pacific seismic zone \[aka the "ring of fire'], earthquake occurrence is quite frequent, and strong earthquakes occur quite often as well. According to the Central Weather Administration's earthquake monitoring information between 1900~1990, the average number of earthquakes in Taiwan is approximately 2,200 per year, of which, approximately 214 can be felt. After the major renewal of the CWB Seismic Network in 1991, the ability of earthquake detection improved drastically. The annual average number of earthquakes recorded from 1991 to 2004 increased to 18,649 (monthly average was approximately 1,554), of which approximately 1,047 were felt. In 1999, Taiwan had the highest number of earthquakes, mainly due to the influence of the Jiji (Chi-Chi) earthquake; there were 49,919 earthquakes, including 3,003 quakes felt. Based on the statistical analysis of catastrophic earthquake information, there have been 96 catastrophic earthquakes since 1900. ([source](https://scweb.cwb.gov.tw/en-US/Guidance/FAQdetail/190))
+
+### Why do so many earthquakes happen in Hualien, specifically?
+
+> When an earthquake happens, we want to know which fault (or faults) ruptured. Sometimes, it is really obvious because there is only one fault in the region. 
+
+> That is not the case in Taiwan.
+
+> How exactly those two subduction zones end at Taiwan, and how other faults are accommodating the relative motion between the Philippine Sea Plate and the Eurasian Plate, is extremely complicated. The entire country is essentially a zone of active collision and uplift. One large fault system dips eastward beneath the high mountain chain - this is the fault system that produced the 1999 earthquake. The recent M7.4 occurred instead to the east, on a fault within a complicated wedge system, where the Philippine Sea Plate is shouldering its way into and past the accretionary wedge, but not subducting beneath it.
+
+![taiwan tectonics.jpg](/img/user/Taiwan/_media/taiwan%20tectonics.jpg)
+
+[Source](https://earthquakeinsights.substack.com/p/deadly-m74-earthquake-strikes-taiwan)
