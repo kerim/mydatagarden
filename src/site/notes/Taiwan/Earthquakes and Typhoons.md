@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/taiwan/earthquakes-and-typhoons/","updated":"2024-04-04T14:13:04.095+08:00"}
+{"dg-publish":true,"permalink":"/taiwan/earthquakes-and-typhoons/","updated":"2024-04-04T15:33:46.718+08:00"}
 ---
 
 ## News and Information
@@ -22,6 +22,14 @@
     - Windows, bookcases, tall furniture and light fixtures. You could be hurt by shattered glass or heavy objects.
     - Elevators. If you are in an elevator during an earthquake, hit the button for every floor and get out as soon as you can.
 - See [link](https://www.getprepared.gc.ca/cnt/rsrcs/pblctns/rthqks-wtd/index-en.aspx) for more, including how to prepare ahead of time.
+
+### Why Taiwan’s earthquake preparedness is among the most advanced in the world
+
+> For example, thousands of public buildings — 4,600 of which were damaged in the 1999 earthquake — were reviewed and strengthened if they had been built before 1997. Since then, several other programs of strengthening and remediation, including to school buildings and private buildings, have been undertaken.
+> 
+> “Taiwan has had very high standards of building for a very long time,” said Rowe. “And so these earthquakes, even if, you know, they were (damaged) in the past, it’s nothing compared to what another country would have suffered in the same earthquake.”
+
+[Source](https://nationalpost.com/news/taiwan-earthquake-preparedness)
 
 ###  What is the frequency of earthquake occurrence in Taiwan?
 
