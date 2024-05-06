@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/managing-hip-pain/current-hip-therapy-routine/current-hip-therapy-routine/","updated":"2024-03-14T18:01:49.320+08:00"}
+{"dg-publish":true,"permalink":"/health/managing-hip-pain/current-hip-therapy-routine/current-hip-therapy-routine/","updated":"2024-05-06T08:38:05.953+08:00"}
 ---
 
 I do something like this routine every morning, six days a week. Just doing it three times a week should give you some decent benefits as well, but it is important to at least take one day off so your body can rest. It takes me about 20 min to half an hour. When I’m in a rush I skip some of these and can do it in 15 min.
@@ -69,6 +69,6 @@ Last Updated 2023-04-16
 
 Will try to keep this page updated with my most recent routine. This version is current as of March 22, 2023. Some previous versions can be found below:
 
-[[Health/Managing Hip Pain/Current Hip Therapy Routine/My Hip Therapy Routine\|My Hip Therapy Routine]]
+[[Health/Managing Hip Pain/Current Hip Therapy Routine/Hip Therapy Routine 1\|Hip Therapy Routine 1]]
 
-[[Health/Managing Hip Pain/Current Hip Therapy Routine/New Hip Mobility Exercises\|New Hip Mobility Exercises]]
+[[Health/Managing Hip Pain/Current Hip Therapy Routine/Hip Therapy Routine 2\|Hip Therapy Routine 2]]
