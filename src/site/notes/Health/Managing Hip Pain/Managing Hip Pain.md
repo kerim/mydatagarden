@@ -29,7 +29,7 @@ I've written some blog posts chronicling my journey to better hip health:
 
 I keep updating my daily routine. These are exercises I do each morning to improve mobility and train supporting muscles that help my posture. I keep updating it based on both changes to my training needs as well as my evolving understanding of what is needed. The current routine takes about 30 min and has helped move me from 80% hip mobility to between 95 and 98 percent when walking.
 
-[[Health/Managing Hip Pain/Current Hip Therapy Routine/Current Hip Therapy Routine\|Current Hip Therapy Routine]]
+[[Health/Managing Hip Pain/Current Hip Therapy Routine\|Current Hip Therapy Routine]]
 
 ## Shoes
 
