@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/health/managing-hip-pain/current-hip-therapy-routine/current-hip-therapy-routine/","updated":"2024-05-06T15:39:26.294+08:00"}
+{"dg-publish":true,"permalink":"/health/managing-hip-pain/current-hip-therapy-routine/current-hip-therapy-routine/","updated":"2024-05-06T15:39:50.092+08:00"}
 ---
 
 I do something like this routine every morning, six days a week. Just doing it three times a week should give you some decent benefits as well, but it is important to at least take one day off so your body can rest. It takes me about 20 min to half an hour. When I’m in a rush I skip some of these and can do it in 15 min. Note that these exercises are targeted at my particular weaknesses, and are not suitable for everyone. 
-
-> [!note]  
-> This is a work in progress. I am still adding videos and descriptions. Later on I will also link to a blog post with the logic behind some of these exercises.
 
 ## Doorway side opener
 <iframe src="https://www.youtube.com/embed/QawhsBp5IB8" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
