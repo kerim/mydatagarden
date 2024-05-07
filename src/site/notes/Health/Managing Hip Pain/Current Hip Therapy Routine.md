@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/managing-hip-pain/current-hip-therapy-routine/","updated":"2024-05-06T15:47:01.837+08:00"}
+{"dg-publish":true,"permalink":"/health/managing-hip-pain/current-hip-therapy-routine/","updated":"2024-05-07T13:55:17.895+08:00"}
 ---
 
 I do something like this routine every morning, six days a week. Just doing it three times a week should give you some decent benefits as well, but it is important to at least take one day off so your body can rest. It takes me about 20 min to half an hour. When I’m in a rush I skip some of these and can do it in 15 min. Note that these exercises are targeted at my particular weaknesses, and are not suitable for everyone. 
@@ -51,6 +51,15 @@ I do something like this routine every morning, six days a week. Just doing it t
 
 (There are more advanced versions of this, but this is the only one I can do)
 <iframe src="https://www.youtube.com/embed/On1kvIxSdgY?si=0JnnBHLsCSLo9rwo" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Quadruped Hip Shift
+
+The second of these three exercises. ([Link to Instagram Reel](https://www.instagram.com/reel/Cj-7poXpehK/).)
+
+## Internal Rotation Exercise
+
+(Skip to 5:30)
+<iframe src="https://www.youtube.com/embed/yRhaqvNRBEY?si=3yCrz46u7ecFb0qJ&t=330" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## PRI Knee to chest at wall
 
