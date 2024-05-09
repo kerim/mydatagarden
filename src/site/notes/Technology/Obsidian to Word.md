@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-10T07:52:41.619+08:00"}
+{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-10T07:53:42.401+08:00"}
 ---
 
 This page has instructions on how to insert citations in Obsidian that can then be exported to a Word file. The setup allows you to enter citations in Obsidian with Zotero and continue to edit those citations using the Zotero plugin in Word after export. 
@@ -37,7 +37,7 @@ You need to have a folder where you will export your files for conversion. Becau
 
 Since each person's user folder is named differently, you will have to check yours. You can get the full path to the folder (important for later on), by control-clicking on the folder in the Finder and then holding down the `option` key. This will show an option to copy the full folder path to your clipboard. 
 #### 2 Download the Lua Filter
-Navigate to [this page](or just click [here](https://retorque.re/zotero-better-bibtex/exporting/pandoc/#from-markdown-to-zotero-live-citations)). in the Better BibTeX documentation, and scroll down to the section titled "From Markdown to Zotero live citations." (The link should take you right there). Then look for the following text: "download the Pandoc filter". Right-click on it and choose "save as." Save it in the folder you chose in the first step. Mine is called `zotero.lua`.
+Navigate to [this page](https://retorque.re/zotero-better-bibtex/exporting/pandoc/#from-markdown-to-zotero-live-citations). in the Better BibTeX documentation, and scroll down to the section titled "From Markdown to Zotero live citations." (The link should take you right there). Then look for the following text: "download the Pandoc filter". Right-click on it and choose "save as." Save it in the folder you chose in the first step. Mine is called `zotero.lua`.
 
 This file is the magic sauce that will allow Pandoc to create "live" citations in Word that can be edited by the Zotero plugin. The page where you downloaded it offers more instructions if you want to modify the lua script to do other things.
 #### 3 Configure Enhancing Export
