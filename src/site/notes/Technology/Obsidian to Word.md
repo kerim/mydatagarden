@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-09T20:36:01.716+08:00"}
+{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-09T20:46:40.829+08:00"}
 ---
 
 This page has instructions on how to insert citations in Obsidian that can then be exported to a Word file. The setup allows you to enter citations in Obsidian with Zotero and continue to edit those citations using the Zotero plugin in Word after export. 
@@ -28,6 +28,11 @@ For a list of other plugins I use in Obsidian, see [[Technology/My Obsidian Setu
 ## Setup
 
 The following steps should only need to be done once. After everything is setup, you shouldn't need to worry about them again.
+
+#### Notes
+I've been informed that all this can be further simplified, but I want to test it before changing what I've written.
+- There is no need to set up a BibTeX file, so that step can be skipped. You just have to make sure that Zotero is running.
+- In the  Enhancing Export "extra arguments" you don't need to specify the library if you are using "My Library," so that can be deleted. Also, you don't need to specify "sorted=true" since that is the default.
 
 #### Choose a folder
 The important thing to decide, before you start, is what folder you will be using. That is because this is the same folder you will use for all the steps in this process. And it is a folder you will be setting as the location for all your Obidian document outputs as well, whenever you export your document to a Word file. 
