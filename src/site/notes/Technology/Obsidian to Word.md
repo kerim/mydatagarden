@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-09T20:30:23.204+08:00"}
+{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-09T20:36:01.716+08:00"}
 ---
 
 This page has instructions on how to insert citations in Obsidian that can then be exported to a Word file. The setup allows you to enter citations in Obsidian with Zotero and continue to edit those citations using the Zotero plugin in Word after export. 
@@ -37,9 +37,9 @@ In my case the folder resides in: `~/Documents/betterbiblatex`. I probably could
 Make sure Better BibTex is installed (see above). Now go into Zotero and chose `export library` from the `file` menu. Then, when you get a popup, choose the format "Better BibLaTeX" from the menu. (I suppose you could choose `Better BibTex` - I'm honestly not too sure of the difference.) Make sure to check the boxes for `background export` and `keep updated`. Then click OK. Now you will be asked where to save it. Select the folder you decided on in the first step.
 
 #### Download the Lua Filter
-Navigate to [this page](https://retorque.re/zotero-better-bibtex/exporting/pandoc/) in the Better BibTeX documentation, and scroll down to the section titled "From Markdown to Zotero live citations" (or just click [here](https://retorque.re/zotero-better-bibtex/exporting/pandoc/#from-markdown-to-zotero-live-citations)). Then look for the text "download the Pandoc filter" and right-click on it and choose "save as." Save it in the folder you chose in the first step. Mine is called `zotero.lua`.
+Navigate to [this page]((or just click [here](https://retorque.re/zotero-better-bibtex/exporting/pandoc/#from-markdown-to-zotero-live-citations)). in the Better BibTeX documentation, and scroll down to the section titled "From Markdown to Zotero live citations." (The link should take you right there). Then look for the text "download the Pandoc filter" and right-click on it and choose "save as." Save it in the folder you chose in the first step. Mine is called `zotero.lua`.
 
-This file is the magic sauce that will allow Pandoc to create "live" citations in Word that can be edited by the Zotero plugin.
+This file is the magic sauce that will allow Pandoc to create "live" citations in Word that can be edited by the Zotero plugin. The page offers more instructions if you want to modify the lua script to do other things.
 
 #### Add a "reference" document
 You will also want to add one more document to the folder you've been using. This is a Word Document that will serve as a reference for Pandoc when it creates styles for your document. For instance, what should a top level header look like? A block quote? 
@@ -78,3 +78,4 @@ That's it for now. There is a lot more you can do, but I haven't tried any of th
 	- User parfitt.christine in the Zotero forums, where she gave [the instructions](https://forums.zotero.org/discussion/comment/407793/#Comment_407793) that got me started.
 	- retorquere, the developer of Better BibTeX who gave some [useful advice](https://github.com/retorquere/zotero-better-bibtex/discussions/2873).
 	- And user jptownley in the Obsidian forums who showed me how to use Enhancing Export and a reference document.
+	- And user FeralFlora in the Obsidian forums for additional feedback and suggestions on how to deal with reference documents.
