@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-10T08:05:18.124+08:00"}
+{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-10T08:08:55.707+08:00"}
 ---
 
 This page has instructions on how to insert citations in Obsidian that can then be exported to a Word file. The setup allows you to enter citations in Obsidian with Zotero and continue to edit those citations using the Zotero plugin in Word after export. 
@@ -61,6 +61,8 @@ Pandoc Reference List will also show a sidebar with the fully formatted referenc
 
 ## Export
 To export, open up the Obsidian command pallet by using the keyboard shortcut (`command-p` on a Mac). Then type `export`. You will see the option for "Enhancing Export: Export to..." Select that. Make sure to choose `Word (.docx)`  as your export format. 
+
+Note: the Zotero app has to be running when you do this.
 
 ## Refresh
 This step is very important. Assuming you set up the Enhancing Export plugin to open the file in Word after export, it won't look right. You'll see some code where the Zotero formatted citations should be. This is easily fixed. Just switch to the Zotero plugin menu and click the "refresh" button. Once you do so, everything should be looking as if you had been using Word to format your Zotero citations all along! 
