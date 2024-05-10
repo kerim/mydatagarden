@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-10T08:52:08.532+08:00"}
+{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-10T14:08:11.742+08:00"}
 ---
 
 This page has instructions on how to insert citations in Obsidian that can then be exported to a Word file. The setup allows you to enter citations in Obsidian with Zotero and continue to edit those citations using the Zotero plugin in Word after export. 
@@ -59,7 +59,7 @@ In Obsidian, enter citations using the standard Pandoc format:`[@friedmanDefinin
 
 If you aren't citing a specific page, simply omit the comma and page number, leaving just the citekey inside square brackets. Like this: `[@friedmanDefiningEthnographicFilm2020]`
 
-The Pandoc Reference List plugin provides autocomplete suggestions from your Zotero library when you start typing the "@" symbol and author name. (Remember to manually add the square brackets around the reference!)
+The Pandoc Reference List plugin provides autocomplete suggestions from your Zotero library when you start typing the "@" symbol and author name. (Remember to manually add the square brackets around the reference!) And if you aren't in "source view" the plugin will make the reference appear as if they are formatted, just like Zotero does in Word. (In "source view" you will still see the raw code as shown above.)
 
 The plugin also displays a sidebar with fully formatted references.
 ## Export
