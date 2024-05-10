@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-10T08:01:41.482+08:00"}
+{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-10T08:05:18.124+08:00"}
 ---
 
 This page has instructions on how to insert citations in Obsidian that can then be exported to a Word file. The setup allows you to enter citations in Obsidian with Zotero and continue to edit those citations using the Zotero plugin in Word after export. 
@@ -78,5 +78,5 @@ That's it for now. There is a lot more you can do, but I haven't tried any of th
 - I would like to thank the following three people for their help, without whom I never would have figured all this out:
 	- User parfitt.christine in the Zotero forums, where she gave [the instructions](https://forums.zotero.org/discussion/comment/407793/#Comment_407793) that got me started.
 	- retorquere, the developer of Better BibTeX who gave some [useful advice](https://github.com/retorquere/zotero-better-bibtex/discussions/2873).
-	- And user jptownley in the Obsidian forums who showed me how to use Enhancing Export and a reference document.
-	- And user FeralFlora in the Obsidian forums for additional feedback and suggestions on how to deal with reference documents.
+	- And user jptownley from the Obsidian Discord who showed me how to use Enhancing Export and a reference document.
+	- And user FeralFlora from the Obsidian Discord for additional feedback and suggestions on how to deal with reference documents.
