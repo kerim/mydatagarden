@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-10T07:55:24.710+08:00"}
+{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-10T08:01:41.482+08:00"}
 ---
 
 This page has instructions on how to insert citations in Obsidian that can then be exported to a Word file. The setup allows you to enter citations in Obsidian with Zotero and continue to edit those citations using the Zotero plugin in Word after export. 
@@ -35,7 +35,7 @@ This quick start version will get you up and running in minutes. I also have [[T
 #### 1 Create a folder
 You need to have a folder where you will export your files for conversion. Because of how this conversion works, you need to use the same folder every time. So create it now and give it an easy to remember name. I recommend a name that is all lower case and has no spaces. I use `obsidian2word`, and the path to the folder is: `/Users/[name of your user folder]/Documents/obsidian2word `. That is, its in the root level of my Documents folder on my Mac. 
 
-Since each person's user folder is named differently, you will have to check yours. You can get the full path to the folder (important for later on), by control-clicking on the folder in the Finder and then holding down the `option` key. This will show an option to copy the full folder path to your clipboard. 
+Since each person's user folder is named differently, you will have to check yours. On the Mac, you can get the full path to the folder (important for later on), by control-clicking on the folder in the Finder and then holding down the `option` key. This will show an option to copy the full folder path to your clipboard. 
 #### 2 Download the Lua Filter
 Navigate to [this page](https://retorque.re/zotero-better-bibtex/exporting/pandoc/#from-markdown-to-zotero-live-citations) in the Better BibTeX documentation, and scroll down to the section titled "From Markdown to Zotero live citations." (The link should take you right there). Then look for the following text: "download the Pandoc filter". Right-click on it and choose "save as." Save it in the folder you chose in the first step. Mine is called `zotero.lua`.
 
