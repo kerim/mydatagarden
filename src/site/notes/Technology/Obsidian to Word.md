@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-10T14:08:11.742+08:00"}
+{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-11T08:02:18.017+08:00"}
 ---
 
 This page has instructions on how to insert citations in Obsidian that can then be exported to a Word file. The setup allows you to enter citations in Obsidian with Zotero and continue to edit those citations using the Zotero plugin in Word after export. 
@@ -71,12 +71,12 @@ After exporting to Word, you may see code in place of the formatted Zotero citat
 
 (Alternatively, you can open the "Document Preferences" in Word and click OK to refresh the citations.)
 ## Tips and Tricks
-That's it for now. There is a lot more you can do, but I haven't tried any of these things yet, so I'm not ready to document them:
-- Add a reference document telling the script how to style your Word document. (This is already documented in my [[Technology/Customizing Obsidian to Word\|Customizing Obsidian to Word]] guide.)
-- Add metadata to your Obsidian document to pre-fill the title, author, date, and other fields in the Word Reference document.
-- Export directly to a formatted PDF document without first going through the step of exporting to Word.
-- Create a table of contents. 
+The above quick start guide should get you going. Please make sure this is working for you before trying anything else. When you are ready, you can check out my my [[Technology/Customizing Obsidian to Word\|Customizing Obsidian to Word]] guide for some additional tricks:
+-  Add a reference document telling the script how to style your Word document. 
+-  Add metadata to your Obsidian document to pre-fill the title, author, date, and other fields on export.
+-  Merge multiple documents before export.
 
+This is just a fraction of what is possible. Other things you can do include exporting directly to PDF with formatted citations. (That is, without first exporting to Word.) Or automatically creating a table of contents when you export. If I ever figure these things out for myself I will write them up here as well.
 ## Acknowledgements
 - I would like to thank the following people for their help in figuring out this workflow. Without whom I never would have figured all this out!
 	- User parfitt.christine, in the Zotero forums, where she gave [the instructions](https://forums.zotero.org/discussion/comment/407793/#Comment_407793) that got me started.
