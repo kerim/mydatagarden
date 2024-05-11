@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-11T08:02:18.017+08:00"}
+{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-11T08:58:20.522+08:00"}
 ---
 
 This page has instructions on how to insert citations in Obsidian that can then be exported to a Word file. The setup allows you to enter citations in Obsidian with Zotero and continue to edit those citations using the Zotero plugin in Word after export. 
 
-For a list of other plugins I use in Obsidian, see [[Technology/My Obsidian Setup\|My Obsidian Setup]].
+For a list of other plugins I use in Obsidian, see [[Technology/My Obsidian Setup\|My Obsidian Setup]]. If you've already finished the steps in the quick start guide below and are looking for more advanced options, check out the page: [[Technology/Customizing Obsidian to Word\|Customizing Obsidian to Word]].
 ## Required tools needed for this workflow
 
 #### Apps
