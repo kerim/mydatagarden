@@ -1,21 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-05-09T18:34:34.501+08:00"}
+{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-05-11T19:41:57.178+08:00"}
 ---
 
 A list of extensions I use to make Obsidian work well as a long-form writing app. See [[Technology/My digital toolkit\|My digital toolkit]] for an overview of how I use Obsidian for my work. 
 
 ## Working with Citations
 
-I've created [[Technology/Obsidian to Word\|a separate page]] for instructions on how to insert citations in Obsidian that can then be exported to a Word file. The setup allows you to enter citations in Obsidian with Zotero and continue to edit those citations using the Zotero plugin in Word after export. 
+I've created [[Technology/Obsidian to Word\|a separate page]] for instructions on how to insert citations in Obsidian that can then be exported to a Word file. The setup allows you to enter citations in Obsidian with Zotero and continue to edit those citations using the Zotero plugin in Word after export. As well as a page for more advanced [[Technology/Customizing Obsidian to Word\|customizations]] when exporting.
 
 ## Long Form Writing
 
 - [Commentator](https://github.com/Fevol/obsidian-criticmarkup)
     - Supports CriticMarkup syntax for tracking changes, as well as adding comments and viewing them in the sidebar
-- [Longform](https://github.com/kevboh/longform)
-    - Concatenate multiple documents, strip code, and export. (I only use this at the end, as I find it a bit restrictive when working on early drafts.)
-- [Templater](https://github.com/SilentVoid13/Templater)
-    - Create default templates. Haven't actually used this yet, but it seems useful
+- [Continuous Mode](https://github.com/gasparschott/obsidian-continuous-mode)
+	- An Obsidian plugin that displays all open notes in a tab group as if they were a single continuous document (sometimes called "Scrivenings mode").
 - [Obsidian Footnote Shortcut](https://github.com/akaalias/obsidian-footnotes/tree/0.0.5)
 	- Not sure this is useful for academic writing? But it is great for writing blog posts if you want markdown styled footnotes in your post.
 
