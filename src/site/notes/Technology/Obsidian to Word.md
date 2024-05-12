@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-12T12:14:53.706+08:00"}
+{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-12T12:19:18.706+08:00"}
 ---
 
 This page has instructions on how to insert citations in Obsidian that can then be exported to a Word file. The setup allows you to enter citations in Obsidian with Zotero and continue to edit those citations using the Zotero plugin in Word after export. 
@@ -67,7 +67,9 @@ The plugin also displays a sidebar with fully formatted references.
 ## Export
 To export your document, open up the Obsidian command palette by using the keyboard shortcut (`command-p` on a Mac). Then type `export`. You will see the option for "Enhancing Export: Export to..." Select that. Make sure to choose `Word (.docx)`  as your export format. 
 
-Note: Zotero must be running during the export process
+Note 1: Zotero must be running during the export process
+
+Note 2: Avoid using special characters, like quotation marks, in your document name. I've found that this can cause errors.
 ## Refresh
 After exporting to Word, you may see code in place of the formatted Zotero citations. To fix this, simply switch to the Zotero plugin menu in Word and click "refresh". The citations should now appear as if you had originally formatted them in Word using Zotero.
 
