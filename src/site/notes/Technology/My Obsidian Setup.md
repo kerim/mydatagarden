@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-05-11T19:41:57.178+08:00"}
+{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-05-12T13:54:25.616+08:00"}
 ---
 
 A list of extensions I use to make Obsidian work well as a long-form writing app. See [[Technology/My digital toolkit\|My digital toolkit]] for an overview of how I use Obsidian for my work. 
@@ -35,20 +35,16 @@ I've created [[Technology/Obsidian to Word\|a separate page]] for instructions o
     - some conflicts with the task checkbox styling so I had to add some custom CSS snippets, see below.
 - [MySnippits](https://github.com/chetachiezikeuzor/MySnippets-Plugin)
     - Add and manage css snippits. Currently using for snippet that formats task checkboxes.
-- [Workspace Plus](https://github.com/nothingislost/obsidian-workspaces-plus)
-    - Maintain multiple obsidian workspaces. Another one I haven't actually used yet.
 - [Zoom](https://github.com/vslinko/obsidian-zoom)
     - Zoom in on header like an outliner
 - [Filename Heading Sync](https://github.com/dvcrn/obsidian-filename-heading-sync)
-	- Makes the first heading match the file name. Can be useful for finding things later on if you change the title of the document.
-- [Folder Focus Mode](https://github.com/grochowski/obsidian-folder-focus-mode)
-	- Different from "Focus Mode" above, this is for your file list, and zooms in on the current folder.
+	- Makes the first heading match the file name. Can be useful for finding things later on if you change the title of the document. (I only use this one for my blog, otherwise it isn't needed.)
 - [Home tab](https://github.com/olrenso/obsidian-home-tab)
 	- Gives you a start page, a bit like a web browser.
 - [Recent Files](https://github.com/tgrosinger/recent-files-obsidian)
 	- Adds a tab to show recent files
-- [Tree Focus](https://github.com/iOSonntag/obsidian-plugin-treefocus)
-	- Adds some formatting to highlight or dim items in your file tree
+- [File Tree Alternative](https://github.com/ozntel/file-tree-alternative)
+	- Gives you separate views for folders and files, and allows you to zoom in on a folder.
 
 ## Export
 
