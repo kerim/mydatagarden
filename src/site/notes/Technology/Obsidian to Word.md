@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-12T12:19:18.706+08:00"}
+{"dg-publish":true,"permalink":"/technology/obsidian-to-word/","updated":"2024-05-12T14:32:45.133+08:00"}
 ---
 
 This page has instructions on how to insert citations in Obsidian that can then be exported to a Word file. The setup allows you to enter citations in Obsidian with Zotero and continue to edit those citations using the Zotero plugin in Word after export. 
@@ -60,6 +60,8 @@ In Obsidian, enter citations using the standard Pandoc format:`[@friedmanDefinin
 If you aren't citing a specific page, simply omit the comma and page number, leaving just the citekey inside square brackets. Like this: `[@friedmanDefiningEthnographicFilm2020]`
 
 If you are entering multiple citations at the same time, you just separate them with a semicolon, but keep them all within the same square brackets, like this: `[@friedmanCollaborationEthnographyHow2013; @friedmanEnteringMountainsRule2010; @barclayOutcastsEmpireJapan2017]`, which (if using Chicago) will output to something like this: (Friedman 2013; 2010; Barclay 2017).
+
+And if you want to suppress the author altogether, for instance if you've already mentioned their name in the body of the text, then you add a minus sign, `-`, before the `@` symbol. Like so: [-@friedmanDefiningEthnographicFilm2020,23], which will give you (2020, 23).
 
 The Pandoc Reference List plugin provides autocomplete suggestions from your Zotero library when you start typing the "@" symbol and author name. (Remember to manually add the square brackets around the reference!) And if you aren't in "source view" the plugin will make the reference appear as if they are formatted, just like Zotero does in Word. (In "source view" you will still see the raw code as shown above.)
 
