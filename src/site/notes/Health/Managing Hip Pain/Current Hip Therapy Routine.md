@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/managing-hip-pain/current-hip-therapy-routine/","updated":"2024-05-07T13:55:17.895+08:00"}
+{"dg-publish":true,"permalink":"/health/managing-hip-pain/current-hip-therapy-routine/","updated":"2024-05-18T18:45:09.485+08:00"}
 ---
 
 I do something like this routine every morning, six days a week. Just doing it three times a week should give you some decent benefits as well, but it is important to at least take one day off so your body can rest. It takes me about 20 min to half an hour. When I’m in a rush I skip some of these and can do it in 15 min. Note that these exercises are targeted at my particular weaknesses, and are not suitable for everyone. 
@@ -25,6 +25,17 @@ I do something like this routine every morning, six days a week. Just doing it t
 
 (I have to keep my hands on the ground and lean back a bit for this one...)
 <iframe src="https://www.youtube.com/embed/rrYUWEpemuA?si=GtRCSNOXO9DtmcyX" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## PRI Knee to chest at wall
+
+(Skip to 13:05)
+
+<iframe src="https://www.youtube.com/embed/qP1lYsMNgbg?si=mwbWvLG9BEvUgN14&t=790" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Supine frog with weights
+
+(Skip to 10:45)
+<iframe src="https://www.youtube.com/embed/6FBEC9SNIbY?si=rc_MvcP8Id6HX6QS&t=645" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Transverse Abdominus exercises
 
@@ -61,11 +72,9 @@ The second of these three exercises. ([Link to Instagram Reel](https://www.insta
 (Skip to 5:30)
 <iframe src="https://www.youtube.com/embed/yRhaqvNRBEY?si=3yCrz46u7ecFb0qJ&t=330" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## PRI Knee to chest at wall
+## 90-90 Lifts
 
-(Skip to 13:05)
-
-<iframe src="https://www.youtube.com/embed/qP1lYsMNgbg?si=mwbWvLG9BEvUgN14&t=790" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+This exercise: ([Link to Instagram Reel](https://www.instagram.com/reel/C6882PExVxs/?igsh=MWVudHZzZTlsYTZoeg==).)
 
 ## Hip Flexor Stretch on Chair
 
