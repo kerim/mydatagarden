@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-05-22T08:46:44.482+08:00"}
+{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-05-22T09:25:52.286+08:00"}
 ---
 
 Some of of extensions I use to make Obsidian work well as a long-form writing app. See [[Technology/My digital toolkit\|My digital toolkit]] for an overview of how I use Obsidian for my work. 
@@ -29,8 +29,6 @@ I've created [[Technology/Obsidian to Word\|a separate page]] for instructions o
     - some conflicts with the task checkbox styling so I had to add some custom CSS snippets, see below.
 - [MySnippits](https://github.com/chetachiezikeuzor/MySnippets-Plugin)
     - Add and manage css snippits. Currently using for snippet that formats task checkboxes.
-- [Zoom](https://github.com/vslinko/obsidian-zoom)
-    - Zoom in on header like an outliner
 - [Recent Files](https://github.com/tgrosinger/recent-files-obsidian)
 	- Adds a tab to show recent files
 
