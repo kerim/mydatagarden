@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kerim-s-digital-garden/","tags":["gardenEntry"],"updated":"2024-03-15T11:21:24.511+08:00"}
+{"dg-publish":true,"permalink":"/kerim-s-digital-garden/","tags":["gardenEntry"],"updated":"2024-05-22T09:19:19.307+08:00"}
 ---
 
 # Welcome to Kerim's Digital Garden
@@ -16,10 +16,11 @@
 - [Triptych Newsletter](https://triptych.oxus.net) - 3 fabulous links, 3 times a month
 
 # Highlights 
-- [[Technology/My digital toolkit\|My digital toolkit]]
-- [[Health/Managing Hip Pain/Managing Hip Pain\|Managing Hip Pain]]
 - [[Taiwan/International Graduate Study in Taiwan\|International Graduate Study in Taiwan]] 
 - [[Education/Indigenous Style Guides\|Indigenous Style Guides]]
+- [[Education/Advice for graduate students\|Advice for graduate students]]
+- [[Technology/My digital toolkit\|My digital toolkit]]
+- [[Health/Managing Hip Pain/Managing Hip Pain\|Managing Hip Pain]]
 
 # Education
 
@@ -105,6 +106,8 @@
 
 
 - [[Technology/My digital toolkit\|My digital toolkit]]
+	- [[Technology/My Obsidian Setup\|My Obsidian Setup]]
+	- [[Technology/Obsidian to Word\|Obsidian to Word]]
 - [[Technology/Working with Text\|Working with Text]]
 - [[Technology/Mastodon\|Mastodon]]
 
