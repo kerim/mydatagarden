@@ -1,62 +1,48 @@
 ---
-{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-05-12T13:54:25.616+08:00"}
+{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-05-22T08:46:44.482+08:00"}
 ---
 
-A list of extensions I use to make Obsidian work well as a long-form writing app. See [[Technology/My digital toolkit\|My digital toolkit]] for an overview of how I use Obsidian for my work. 
+Some of of extensions I use to make Obsidian work well as a long-form writing app. See [[Technology/My digital toolkit\|My digital toolkit]] for an overview of how I use Obsidian for my work. 
 
 ## Working with Citations
 
 I've created [[Technology/Obsidian to Word\|a separate page]] for instructions on how to insert citations in Obsidian that can then be exported to a Word file. The setup allows you to enter citations in Obsidian with Zotero and continue to edit those citations using the Zotero plugin in Word after export. As well as a page for more advanced [[Technology/Customizing Obsidian to Word\|customizations]] when exporting.
 
 ## Long Form Writing
-
-- [Commentator](https://github.com/Fevol/obsidian-criticmarkup)
-    - Supports CriticMarkup syntax for tracking changes, as well as adding comments and viewing them in the sidebar
-- [Continuous Mode](https://github.com/gasparschott/obsidian-continuous-mode)
-	- An Obsidian plugin that displays all open notes in a tab group as if they were a single continuous document (sometimes called "Scrivenings mode").
+- [Longform](https://github.com/kevboh/longform)
+	- Provides a number of tools to help you to combine shorter notes into a longer manuscript, including saving drafts, setting writing goals, and processing for export to other apps.
 - [Obsidian Footnote Shortcut](https://github.com/akaalias/obsidian-footnotes/tree/0.0.5)
-	- Not sure this is useful for academic writing? But it is great for writing blog posts if you want markdown styled footnotes in your post.
-
-## Productivity
-
-- [Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks)
-    - View all tasks in vault, grouped by file
-- [Toggl Track](https://github.com/mcndt/obsidian-toggl-integration)
-	- Can keep track of how much time you spend writing
-- [Writing Goals](https://github.com/lynchjames/obsidian-writing-goals)
-    - Similar to what Ulysses offers. Useful if you want to reach a particular word count each day.
+	- These markdown formatted footnotes can be converted to regular footnotes using the same procedure described for exporting your document with citations. 
+	- Not sure if it is necessary but the [Tidy Footnotes](https://github.com/charliecm/obsidian-tidy-footnotes) plugin will re-number your footnotes sequentially if they get out of order due to cut and paste. 
 - [Focus Mode](https://github.com/ryanpcmcquen/obsidian-focus-mode)
     - Quickly toggle focus mode to hide distractions
 - [Typewriter Mode](https://github.com/davisriedel/obsidian-typewriter-mode)
     - Keep text in center and fade other paragraphs
-## Styling and UX
 
+## Track Changes
+- [Commentator](https://github.com/Fevol/obsidian-criticmarkup)
+    - Supports CriticMarkup syntax, a markdown-based syntax for tracking changes, as well as adding comments and viewing them in the sidebar. Note that this is still in beta - you need to install it with the BRAT plugin below. I wouldn't recommend this unless you know what you are doing, but a neat trick is to ask ChatGPT to use CriticMarkup when making suggestions on your writing. That way you can go through the suggestions one-by-one and accept or reject them individually. 
+- [BRAT](https://github.com/TfTHacker/obsidian42-brat)
+    - Need this to easily install Commentator, which is in beta
+## Styling and UX
 - [iA Writer theme](https://github.com/mrowa44/obsidian-ia-writer)
     - some conflicts with the task checkbox styling so I had to add some custom CSS snippets, see below.
 - [MySnippits](https://github.com/chetachiezikeuzor/MySnippets-Plugin)
     - Add and manage css snippits. Currently using for snippet that formats task checkboxes.
 - [Zoom](https://github.com/vslinko/obsidian-zoom)
     - Zoom in on header like an outliner
-- [Filename Heading Sync](https://github.com/dvcrn/obsidian-filename-heading-sync)
-	- Makes the first heading match the file name. Can be useful for finding things later on if you change the title of the document. (I only use this one for my blog, otherwise it isn't needed.)
-- [Home tab](https://github.com/olrenso/obsidian-home-tab)
-	- Gives you a start page, a bit like a web browser.
 - [Recent Files](https://github.com/tgrosinger/recent-files-obsidian)
 	- Adds a tab to show recent files
-- [File Tree Alternative](https://github.com/ozntel/file-tree-alternative)
-	- Gives you separate views for folders and files, and allows you to zoom in on a folder.
 
-## Export
+## Blog and Newsletter Related
+I keep separate Obsidian vaults for different purposes. One for longform writing, one for my blog, one for my digital garden (this website), and one for my newsletter. This allows me to better customize each one for different workflows. Here are some I use for my blog and newsletter
 
 - [Obsidian Markdown Export](https://github.com/bingryan/obsidian-markdown-export-plugin)
-    - One click export file to the Blot drafts folder
+    - Use this for my blog, as it gives one-click export to my Blot folder.
+- [Filename Heading Sync](https://github.com/dvcrn/obsidian-filename-heading-sync)
+	- Makes the first heading match the file name. (I only use this one for my blog, otherwise it isn't needed.)
 - [Send to Ghost](https://github.com/Southpaw1496/obsidian-send-to-ghost)
 	- I use this for writing my newsletter, which is hosted on Ghost.
-
-## Misc.
-
-- [BRAT](https://github.com/TfTHacker/obsidian42-brat)
-    - To install Commentator, which is in beta
 
 ## Custom CSS sippets
 
