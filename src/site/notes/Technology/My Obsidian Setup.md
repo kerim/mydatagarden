@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-05-22T09:25:52.286+08:00"}
+{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-05-22T09:29:15.374+08:00"}
 ---
 
 Some of of extensions I use to make Obsidian work well as a long-form writing app. See [[Technology/My digital toolkit\|My digital toolkit]] for an overview of how I use Obsidian for my work. 
@@ -18,6 +18,8 @@ I've created [[Technology/Obsidian to Word\|a separate page]] for instructions o
     - Quickly toggle focus mode to hide distractions
 - [Typewriter Mode](https://github.com/davisriedel/obsidian-typewriter-mode)
     - Keep text in center and fade other paragraphs
+- [Aloud](https://github.com/adrianlyjak/obsidian-aloud-tts)
+	- Uses ChatGPT's lifelike voices to read your text aloud. Very useful for proofreading and reviewing what you've written.
 
 ## Track Changes
 - [Commentator](https://github.com/Fevol/obsidian-criticmarkup)
