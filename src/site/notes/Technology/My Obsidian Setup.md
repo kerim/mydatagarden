@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-05-22T09:29:15.374+08:00"}
+{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-05-23T08:12:05.523+08:00"}
 ---
 
 Some of of extensions I use to make Obsidian work well as a long-form writing app. See [[Technology/My digital toolkit\|My digital toolkit]] for an overview of how I use Obsidian for my work. 
 
 ## Working with Citations
-
-I've created [[Technology/Obsidian to Word\|a separate page]] for instructions on how to insert citations in Obsidian that can then be exported to a Word file. The setup allows you to enter citations in Obsidian with Zotero and continue to edit those citations using the Zotero plugin in Word after export. As well as a page for more advanced [[Technology/Customizing Obsidian to Word\|customizations]] when exporting.
+- [[Technology/Obsidian to Word\|Obsidian to Word]]
+	- A separate page with my instructions on how to insert citations in Obsidian that can then be exported to a Word file. The setup allows you to enter citations in Obsidian with Zotero and continue to edit those citations using the Zotero plugin in Word after export. 
+- [[Technology/Customizing Obsidian to Word\|Customizing Obsidian to Word]]
+	- A page for more advanced [[Technology/Customizing Obsidian to Word\|customizations]] when exporting. (Work in progress.)
 
 ## Long Form Writing
 - [Longform](https://github.com/kevboh/longform)
