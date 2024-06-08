@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/managing-hip-pain/current-hip-therapy-routine/","updated":"2024-05-29T12:00:00.323+08:00"}
+{"dg-publish":true,"permalink":"/health/managing-hip-pain/current-hip-therapy-routine/","updated":"2024-06-08T10:15:53.362+08:00"}
 ---
 
 I do something like this routine every morning, six days a week. Just doing it three times a week should give you some decent benefits as well, but it is important to at least take one day off so your body can rest. It takes me about 20 min to half an hour. When I’m in a rush I skip some of these and can do it in 15 min. Note that these exercises are targeted at my particular weaknesses, and are not suitable for everyone. 
@@ -25,6 +25,11 @@ I do something like this routine every morning, six days a week. Just doing it t
 
 (I have to keep my hands on the ground and lean back a bit for this one...)
 <iframe src="https://www.youtube.com/embed/rrYUWEpemuA?si=GtRCSNOXO9DtmcyX" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## Kettlebell Hip Shift
+
+<iframe src="https://www.youtube.com/embed/YT0KUNuY7QM?si=brkGw24C5B5eXBFR&t=42" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## PRI Knee to chest at wall
 
@@ -58,10 +63,10 @@ As a variation also do the [DNS Star pattern](https://www.youtube.com/watch?v=03
 
 <iframe src="https://www.youtube.com/embed/0C-xeDPja9g?si=dCV9OOvN9kmq3OsS" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Hip capsule stretch
+## Banded Hip Mobialization
 
-(There are more advanced versions of this, but this is the only one I can do)
-<iframe src="https://www.youtube.com/embed/On1kvIxSdgY?si=0JnnBHLsCSLo9rwo" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe src="https://www.youtube.com/embed/99pb0NnE4Kw?si=I_KPsM5MMgyRZ9eG" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Quadruped Hip Shift
 
@@ -75,11 +80,6 @@ The second of these three exercises. ([Link to Instagram Reel](https://www.insta
 ## Hip Flexor Stretch on Chair
 
 <iframe src="https://www.youtube.com/embed/RcgR0aZZbqY?si=gH0VHwEBetr37V9J" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## Slider Lunge
-
-(Like this, but one foot raised, also slide foot across, behind bent leg..)
-<iframe src="https://www.youtube.com/embed/aRpXyDlUlIE?si=bWsve1-itJArKyfZ" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Deep Squat/hamstring stretch with offset weight
 
