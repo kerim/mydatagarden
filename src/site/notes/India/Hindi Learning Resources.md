@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/india/hindi-learning-resources/","updated":"2024-03-13T10:54:50.659+08:00"}
+{"dg-publish":true,"permalink":"/india/hindi-learning-resources/","updated":"2024-06-14T21:24:05.640+08:00"}
 ---
 
 # Schools
@@ -27,6 +27,11 @@
 
 - Weightman, Simon, and Rupert Snell. 2015. Complete Hindi. Mobius.
 - Snell, Rupert. 2000. Beginner’s Hindi Script. Teach Yourself Books.
+
+# Graded Hindi Readers
+- [Storyweaver](https://storyweaver.org.in/en/stories?sort=Ratings) (Free Online Graded Readers)
+- [Reading Hindi: Novice to Intermediate](https://www.google.com.tw/books/edition/Reading_Hindi_Novice_to_Intermediate/0TPNDwAAQBAJ?hl=en&gbpv=1&dq=Reading+Hindi:+Novice+to+Intermediate&printsec=frontcover)
+- [First Hindi Reader for Beginners: Bilingual for Speakers of English](https://books.google.com.tw/books/about/First_Hindi_Reader_for_Beginners.html?id=eaK3swEACAAJ&redir_esc=y)
 
 # Apps
 
