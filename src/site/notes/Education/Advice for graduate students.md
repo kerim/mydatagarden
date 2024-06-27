@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/education/advice-for-graduate-students/","updated":"2024-03-13T12:38:31.903+08:00"}
+{"dg-publish":true,"permalink":"/education/advice-for-graduate-students/","updated":"2024-06-27T09:37:35.786+08:00"}
 ---
 
 > [!note]  
@@ -20,6 +20,7 @@
 - [Writing Grant Proposals for Anthropological Research](http://www.wennergren.org/news/advice-how-write-a-grant-proposal)
 - [Matthew Wolf-Meyer's advice on professionalization](https://matthewwolfmeyer.com/professionalization-material/) (including choosing a committee, preparing for exams, writing a dissertation, etc.)
 - [awesome-PhD: All the resources I wish I knew when starting my PhD.](https://github.com/helenahartmann/awesome-PhD)
+- [Managing stress](https://savageminds.org/2010/06/18/under-pressure/)
 
 ## Thesis Writing
 
