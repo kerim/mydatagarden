@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/education/indigenous-style-guides/","updated":"2024-03-13T18:39:09.921+08:00"}
+{"dg-publish":true,"permalink":"/education/indigenous-style-guides/","updated":"2024-06-29T15:19:47.350+08:00"}
 ---
 
 Writing about Indigenous issues in English can be tricky, since the language we use continues to change in response to ongoing social movements. For this reason it helps to consult Indigenous style guides on proper usage. Note that not all the guidelines may agree. Some of this may be due to differences in English usage, different colonial histories, or simply personal differences as well. For this reason it is best to consult all the guides as well as the specific group of people you are writing about to ask for advice.
@@ -13,6 +13,7 @@ Writing about Indigenous issues in English can be tricky, since the language we 
 - [Academic Citations Evolve to Include Indigenous Oral Teachings](https://eos.org/articles/academic-citations-evolve-to-include-indigenous-oral-teachings)
 - [Citing Indigenous Elders and Knowledge Keepers](https://news.library.ualberta.ca/blog/2022/01/27/citing-indigenous-elders-and-knowledge-keepers/)
 - [Think Before You Appropriate: A guide for creators and designers](https://www.sfu.ca/ipinch/sites/default/files/resources/teaching_resources/think_before_you_appropriate_jan_2016.pdf)
+- [Diversity Style Guide](https://www.diversitystyleguide.com/)
 
 ## How to Write about Indigenous Taiwanese in English?
 
