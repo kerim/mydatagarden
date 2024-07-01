@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-05-23T08:12:05.523+08:00"}
+{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-07-01T09:04:11.316+08:00"}
 ---
 
 Some of of extensions I use to make Obsidian work well as a long-form writing app. See [[Technology/My digital toolkit\|My digital toolkit]] for an overview of how I use Obsidian for my work. 
@@ -26,6 +26,7 @@ Some of of extensions I use to make Obsidian work well as a long-form writing ap
 ## Track Changes
 - [Commentator](https://github.com/Fevol/obsidian-criticmarkup)
     - Supports CriticMarkup syntax, a markdown-based syntax for tracking changes, as well as adding comments and viewing them in the sidebar. Note that this is still in beta - you need to install it with the BRAT plugin below. I wouldn't recommend this unless you know what you are doing, but a neat trick is to ask ChatGPT to use CriticMarkup when making suggestions on your writing. That way you can go through the suggestions one-by-one and accept or reject them individually. 
+    - UPDATE: I've written [a blog post](https://keywords.oxus.net/archives/2024/07/01/how-to-track-changes-with-claude-or-chatgpt) about how to use this.
 - [BRAT](https://github.com/TfTHacker/obsidian42-brat)
     - Need this to easily install Commentator, which is in beta
 ## Styling and UX
