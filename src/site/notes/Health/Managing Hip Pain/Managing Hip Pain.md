@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/health/managing-hip-pain/managing-hip-pain/","updated":"2024-03-14T11:02:42.888+08:00"}
+{"dg-publish":true,"permalink":"/health/managing-hip-pain/managing-hip-pain/","updated":"2024-07-01T09:17:57.833+08:00"}
 ---
 
 For years I’ve struggled with hip pain. Like the story of the blind men and the elephant, doctors tend to see my issues through the lens of their own area of specialization, making it hard to get a good diagnosis. Finally, frustrated as the problem got worse and worse, I turned to YouTube* and now, for the first time in decades, I can feel that I’m on the mend. (*See a list of my favorite YouTue channels under [[Health/Resources\|Resources]].)
@@ -24,6 +24,8 @@ I've written some blog posts chronicling my journey to better hip health:
     - Why static stretching doesn't work, and what you should do instead
 - [Five tips for managing pain](https://keywords.oxus.net/archives/2021/11/26/five-tips-for-managing-pain)
     - Some basic principles
+- [Waking up my Glutes (Part 6) - Perseverance](https://keywords.oxus.net/archives/2024/05/19/waking-up-my-glutes-part-6-perseverance)
+	- Making progress
 
 ## My Routine
 
