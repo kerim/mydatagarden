@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/education/advice-for-graduate-students/","updated":"2024-06-27T09:37:35.786+08:00"}
+{"dg-publish":true,"permalink":"/education/advice-for-graduate-students/","updated":"2024-09-11T13:30:13.731+08:00"}
 ---
 
 > [!note]  
@@ -16,8 +16,8 @@
 ## Advice for those in graduate school
 
 - Charles Tilly’s PPT “[selecting a dissertation topic](https://www.slideserve.com/wardah/graphical-reproduction-based-on-a-conceptual-illustration-by-charles-tilly-2006)“
-- [The Art of Writing Proposals](http://www.ssrc.org/publications/view/7A9CB4F4-815F-DE11-BD80-001CC477EC70/)
-- [Writing Grant Proposals for Anthropological Research](http://www.wennergren.org/news/advice-how-write-a-grant-proposal)
+- [The Art of Writing Proposals](https://www.ssrc.org/publications/the-art-of-writing-proposals/)
+- [Writing Grant Proposals for Anthropological Research](https://www.journals.uchicago.edu/doi/abs/10.1086/203987?journalCode=ca)
 - [Matthew Wolf-Meyer's advice on professionalization](https://matthewwolfmeyer.com/professionalization-material/) (including choosing a committee, preparing for exams, writing a dissertation, etc.)
 - [awesome-PhD: All the resources I wish I knew when starting my PhD.](https://github.com/helenahartmann/awesome-PhD)
 - [Managing stress](https://savageminds.org/2010/06/18/under-pressure/)
