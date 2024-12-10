@@ -92,6 +92,7 @@
 - [[Health/COVID-19 Info\|COVID-19 Info]]
 - [[Health/Home Workout Routine\|Home Workout Routine]]
 - [[Health/Managing Hip Pain/Managing Hip Pain\|Managing Hip Pain]]
+- [[Health/Managing Shoulder Pain\|Managing Shoulder Pain]]
 - [[Health/Resources\|Resources]]
 
 </div></div>
