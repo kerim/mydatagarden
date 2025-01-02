@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/education/education/","updated":"2024-03-14T10:52:35.348+08:00"}
+{"dg-publish":true,"permalink":"/education/education/","updated":"2025-01-02T09:10:58.478+08:00"}
 ---
 
 
@@ -12,3 +12,4 @@
 - [[Taiwan/International Graduate Study in Taiwan\|International Graduate Study in Taiwan]] 
 	- (with a focus on Austronesian/Indigenous studies)
 - [[Education/Weaving vs. Bookending\|Weaving vs. Bookending]]
+- [[Education/Advice for writers\|Advice for writers]]
