@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/education/advice-for-writers/","updated":"2025-01-03T06:46:24.030+08:00"}
+{"dg-publish":true,"permalink":"/education/advice-for-writers/","updated":"2025-01-03T07:11:56.295+08:00"}
 ---
 
-This page is advice I've collected for myself, to work towards becoming a better writer (with a focus on nonfiction). As such, I haven't actually read most of this myself and so can't vouch for it personally.
+This page is advice I've collected for myself, to work towards becoming a better writer (with a focus on nonfiction). As such, I haven't actually yet read any of it, and so can't vouch for it personally. 
 
 ### Books
 - [Academic Writing as if Readers Matter](https://press.princeton.edu/books/paperback/9780691195797/academic-writing-as-if-readers-matter) - Leonard Cassuto
