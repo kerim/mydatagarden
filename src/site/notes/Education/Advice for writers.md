@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/education/advice-for-writers/","updated":"2025-01-02T09:21:30.076+08:00"}
+{"dg-publish":true,"permalink":"/education/advice-for-writers/","updated":"2025-01-02T09:49:38.552+08:00"}
 ---
 
-This page is advice I've collected for myself, to work towards becoming a better writer. As such, I haven't actually read most of this myself and so can't vouch for it. Once I have had a chance to read everything I will try to update this page with a focus on what I found useful.
+This page is advice I've collected for myself, to work towards becoming a better writer (with a focus on nonfiction). As such, I haven't actually read most of this myself and so can't vouch for it personally.
 
 ### Books
 - [Academic Writing as if Readers Matter](https://press.princeton.edu/books/paperback/9780691195797/academic-writing-as-if-readers-matter) - Leonard Cassuto
@@ -12,8 +12,11 @@ This page is advice I've collected for myself, to work towards becoming a better
 - [Clear and Simple as the Truth: Writing Classic Prose](https://press.princeton.edu/books/paperback/9780691147437/clear-and-simple-as-the-truth) - Francis-Noël Thomas and Mark Turner
 - [Thinking Like Your Editor: How to Write Great Serious Nonfiction and Get It Published](https://wwnorton.com/books/Thinking-Like-Your-Editor/) - Susan Rabiner and Alfred Fortunato
 
-### Online couress
+### Online courses and writing programs
 - [Building Great Sentences: Exploring the Writer's Craft](https://www.thegreatcourses.com/courses/building-great-sentences-exploring-the-writer-s-craft) - Brooks Landon
-- Courses at [The London School of Journalism](https://www.lsj.org/courses/online-courses/) 
+- [The London School of Journalism](https://www.lsj.org/courses/online-courses/) 
 - [Gotham Writers Workshop](https://www.writingclasses.com/)
 - [Writer’s Digest University](https://writersdigestuniversity.mykajabi.com/)
+
+### Other lists of resources for writers
+- [The best books about writing in 2025](https://katrisoikkeli.com/books-about-writing/)
