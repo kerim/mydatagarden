@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/education/advice-for-writers/","updated":"2025-01-02T09:55:40.176+08:00"}
+{"dg-publish":true,"permalink":"/education/advice-for-writers/","updated":"2025-01-02T10:18:08.006+08:00"}
 ---
 
 This page is advice I've collected for myself, to work towards becoming a better writer (with a focus on nonfiction). As such, I haven't actually read most of this myself and so can't vouch for it personally.
@@ -12,6 +12,7 @@ This page is advice I've collected for myself, to work towards becoming a better
 - [Clear and Simple as the Truth: Writing Classic Prose](https://press.princeton.edu/books/paperback/9780691147437/clear-and-simple-as-the-truth) - Francis-Noël Thomas and Mark Turner
 - [Thinking Like Your Editor: How to Write Great Serious Nonfiction and Get It Published](https://wwnorton.com/books/Thinking-Like-Your-Editor/) - Susan Rabiner and Alfred Fortunato
 - [How I Write: Writers on Their Craft](https://harpercollins.co.in/product/how-i-write/) - Sonia Faleiro
+- [If You Want to Write - A Book about Art, Independence and Spirit](https://www.graywolfpress.org/books/if-you-want-write) - Brenda Ueland
 
 ### Online courses and writing programs
 - [Building Great Sentences: Exploring the Writer's Craft](https://www.thegreatcourses.com/courses/building-great-sentences-exploring-the-writer-s-craft) - Brooks Landon
