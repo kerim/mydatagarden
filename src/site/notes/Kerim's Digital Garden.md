@@ -39,6 +39,7 @@
 - [[Taiwan/International Graduate Study in Taiwan\|International Graduate Study in Taiwan]] 
 	- (with a focus on Austronesian/Indigenous studies)
 - [[Education/Weaving vs. Bookending\|Weaving vs. Bookending]]
+- [[Education/Advice for writers\|Advice for writers]]
 
 </div></div>
 
