@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/education/advice-for-writers/","updated":"2025-01-07T10:08:43.352+08:00"}
+{"dg-publish":true,"permalink":"/education/advice-for-writers/","updated":"2025-01-07T10:14:00.320+08:00"}
 ---
 
 This page is advice I've collected for myself, to work towards becoming a better writer (with a focus on nonfiction). As such, I haven't actually yet read any of it, and so can't vouch for it personally. 
@@ -23,5 +23,7 @@ This page is advice I've collected for myself, to work towards becoming a better
 - [Writer’s Digest University](https://writersdigestuniversity.mykajabi.com/)
 - [Amherst Writers & Artists | Supportive, generative writing workshops](https://amherstwriters.org/)
 
+### Articles
+- [Shitty First Drafts](https://mccourt.georgetown.edu/wp-content/uploads/2022/08/Anne-Lamott-Shitty-First-Drafts-1.pdf) - Anne Lamott
 ### Other lists of resources for writers
 - [The best books about writing in 2025](https://katrisoikkeli.com/books-about-writing/)
