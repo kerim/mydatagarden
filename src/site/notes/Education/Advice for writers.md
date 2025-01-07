@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/education/advice-for-writers/","updated":"2025-01-03T07:11:56.295+08:00"}
+{"dg-publish":true,"permalink":"/education/advice-for-writers/","updated":"2025-01-07T10:08:43.352+08:00"}
 ---
 
 This page is advice I've collected for myself, to work towards becoming a better writer (with a focus on nonfiction). As such, I haven't actually yet read any of it, and so can't vouch for it personally. 
@@ -14,12 +14,14 @@ This page is advice I've collected for myself, to work towards becoming a better
 - [How I Write: Writers on Their Craft](https://harpercollins.co.in/product/how-i-write/) - Sonia Faleiro
 - [If You Want to Write - A Book about Art, Independence and Spirit](https://www.graywolfpress.org/books/if-you-want-write) - Brenda Ueland
 - [Writing without Teachers](https://global.oup.com/academic/product/writing-without-teachers-9780195120165?cc=us&lang=en&) - Peter Elbow
+- [On Writing Well](https://www.harpercollins.com/products/on-writing-well-william-zinsser?variant=32118081159202) - William Zinsser
 
 ### Online courses and writing programs
 - [Building Great Sentences: Exploring the Writer's Craft](https://www.thegreatcourses.com/courses/building-great-sentences-exploring-the-writer-s-craft) - Brooks Landon
 - [The London School of Journalism](https://www.lsj.org/courses/online-courses/) 
 - [Gotham Writers Workshop](https://www.writingclasses.com/)
 - [Writer’s Digest University](https://writersdigestuniversity.mykajabi.com/)
+- [Amherst Writers & Artists | Supportive, generative writing workshops](https://amherstwriters.org/)
 
 ### Other lists of resources for writers
 - [The best books about writing in 2025](https://katrisoikkeli.com/books-about-writing/)
