@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/education/advice-for-writers/","updated":"2025-01-07T10:14:00.320+08:00"}
+{"dg-publish":true,"permalink":"/education/advice-for-writers/","updated":"2025-01-16T18:30:57.636+08:00"}
 ---
 
 This page is advice I've collected for myself, to work towards becoming a better writer (with a focus on nonfiction). As such, I haven't actually yet read any of it, and so can't vouch for it personally. 
@@ -15,6 +15,7 @@ This page is advice I've collected for myself, to work towards becoming a better
 - [If You Want to Write - A Book about Art, Independence and Spirit](https://www.graywolfpress.org/books/if-you-want-write) - Brenda Ueland
 - [Writing without Teachers](https://global.oup.com/academic/product/writing-without-teachers-9780195120165?cc=us&lang=en&) - Peter Elbow
 - [On Writing Well](https://www.harpercollins.com/products/on-writing-well-william-zinsser?variant=32118081159202) - William Zinsser
+- [A Swim in a Pond in the Rain](https://www.penguinrandomhouse.com/books/609280/a-swim-in-a-pond-in-the-rain-by-george-saunders/) - George Saunders
 
 ### Online courses and writing programs
 - [Building Great Sentences: Exploring the Writer's Craft](https://www.thegreatcourses.com/courses/building-great-sentences-exploring-the-writer-s-craft) - Brooks Landon
