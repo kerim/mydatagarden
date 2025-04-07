@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/my-digital-toolkit/","updated":"2024-03-19T10:10:47.108+08:00"}
+{"dg-publish":true,"permalink":"/technology/my-digital-toolkit/","updated":"2025-04-07T21:25:39.942+08:00"}
 ---
 
 
@@ -31,7 +31,7 @@ While most of my advisors managed to be much more productive than I ever will be
 ## Productivity
 
 - Note: I use Logseq (see above) for my personal task management.
-- Collaborative Task Manager: [Todoist](https://todoist.com/)
+- Collaborative Task Manager: [Todoist](https://todoist.com/) (or Apple Reminders if they are on iOS)
     - I manage most of my daily tasks right inside Logseq (see above), but for working with others I used Todoist. There are many online collaborative task managers, but few that offer so many features for free, or which work if only one of the users has paid for a pro membership. Of these, Todoist is currently the best. It also works very well for grabbing websites as tasks via the Chrome extension or the iOS app, making it useful for bookmarking things that need to be checked off.
     - Available on every platform.
 - Time Blocking: [Structured](https://structured.app/)
@@ -40,15 +40,20 @@ While most of my advisors managed to be much more productive than I ever will be
 - Timers: [Toggl Trak](https://toggl.com/)
     - Designed for freelancers who need to bill people for their time, the basic features are free for personal use. Useful for keeping track of how much time you spend on various tasks.
     - Available on every platform.
+## Wishlists / Tracking
 
+- Books: [The Storygraph](https://app.thestorygraph.com/) ([profile link](https://app.thestorygraph.com/profile/kerim)) 
+- Films: [Letterboxd](https://letterboxd.com/): ([profile link](https://letterboxd.com/kerim/))
+- TV Shows: [Showly](https://www.showlyapp.com/) 
+- Podcasts: Apple Reminders (wishlist), [Castro](https://castro.fm/) (podcast app)
 ## Other Tools
 
-- Presentations: [Deckset](https://www.deckset.com/)
+- Presentations: [Deckset](https://www.deckset.com/) or [iA Presenter](https://ia.net/presenter)
     - Make presentations out of a single (markdown formatted) plaintext file. Very easy to use.
     - MacOS only.
     - I also like to use [Notion](https://notion.so) for my lecture notes, which you can turn into presentation slides using [this website](https://wunderpresentation.com/).
 - Blogging: [Blot](https://blot.im/)
-    - Stupidly simple blogging. Just put any file in a dropbox folder and it becomes a blog post! No interface really, you can use whatever text editor you like to edit the files. (It accepts plain text files or Word documents, etc. and you can add images as well.)
+    - Stupidly simple blogging. Just put any file in a folder and it becomes a blog post! No interface really, you can use whatever text editor you like to edit the files. (It accepts plain text files or Word documents, etc. and you can add images as well.)
 - Manual Transcription: [oTranscribe](https://otranscribe.com/)
     - Free app for transcribing audio or video.
     - Works in your browser, but your data stays local, not in “the cloud.” Available in many languages.
