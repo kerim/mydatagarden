@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2024-07-01T09:04:11.316+08:00"}
+{"dg-publish":true,"permalink":"/technology/my-obsidian-setup/","updated":"2025-04-07T21:29:30.325+08:00"}
 ---
 
 Some of of extensions I use to make Obsidian work well as a long-form writing app. See [[Technology/My digital toolkit\|My digital toolkit]] for an overview of how I use Obsidian for my work. 
@@ -22,9 +22,12 @@ Some of of extensions I use to make Obsidian work well as a long-form writing ap
     - Keep text in center and fade other paragraphs
 - [Aloud](https://github.com/adrianlyjak/obsidian-aloud-tts)
 	- Uses ChatGPT's lifelike voices to read your text aloud. Very useful for proofreading and reviewing what you've written.
+- [Enhanced Annotations](https://github.com/ycnmhd/obsidian-enhanced-annotations)
+	- Make in-line notes and comments and track them in the sidebar. 
 
 ## Track Changes
 - [Commentator](https://github.com/Fevol/obsidian-criticmarkup)
+	- NOTE: This is currently broken and the developer hasn't updated it in nearly a year. You can track progress [here](https://github.com/Fevol/obsidian-criticmarkup/issues/23).
     - Supports CriticMarkup syntax, a markdown-based syntax for tracking changes, as well as adding comments and viewing them in the sidebar. Note that this is still in beta - you need to install it with the BRAT plugin below. I wouldn't recommend this unless you know what you are doing, but a neat trick is to ask ChatGPT to use CriticMarkup when making suggestions on your writing. That way you can go through the suggestions one-by-one and accept or reject them individually. 
     - UPDATE: I've written [a blog post](https://keywords.oxus.net/archives/2024/07/01/how-to-track-changes-with-claude-or-chatgpt) about how to use this.
 - [BRAT](https://github.com/TfTHacker/obsidian42-brat)
