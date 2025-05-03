@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/education/indigenous-style-guides/","updated":"2025-05-03T10:57:12.237+08:00"}
+{"dg-publish":true,"permalink":"/education/indigenous-style-guides/","updated":"2025-05-03T11:06:30.528+08:00"}
 ---
 
 Writing about Indigenous issues in English can be tricky, since the language we use continues to change in response to ongoing social movements. For this reason it helps to consult Indigenous style guides on proper usage. Note that not all the guidelines may agree. Some of this may be due to differences in English usage, different colonial histories, or simply personal differences as well. For this reason it is best to consult all the guides as well as the specific group of people you are writing about to ask for advice.
@@ -34,7 +34,10 @@ This is an ever-evolving guide, as my own thinking continues to change in respon
         - This is very much a personal preference, but I like to say “Indigenous Taiwanese” whenever possible, not “Taiwan’s Indigenous peoples” or “Taiwan’s Indigenous ethnic groups.” I feel that it sounds a little more respectful and less like the clinical/scientific language of ethnographic textbooks. (See above about why I don’t write “Taiwan’s Indigenous nations” or “tribes.”)
         - Note, however, that it can be confused with the term “Native Taiwanese” which often refers to the Hoklo and Hakka speaking Han population of Taiwan. Even worse, these groups are sometimes referred to in English as “Indigenous”! To clarify things I sometimes use “Austronesian speaking” as a modifier, but this is less than ideal since many no longer speak Austronesian languages…
 - “Buluo” 部落
-    - I tend to leave this as “buluo” though some people translate it as “community.” - I don’t use “village” because a single buluo can be smaller or larger than a village, depending.
+    - When talking about the term in general, I tend to leave this as “buluo” though some people translate it as “community.” - I don’t use “village” because a single buluo can be smaller or larger than a village, depending.
+    - However, when talking about a particular ethnic group, I use the term appropriate to that language or dialect.
+	    - Pangcah/Amis: *niyaro*
+	    - Seediq: *alang*
     - See [my 2018 paper](https://kerim.oxus.net/peer-reviewed-publications) for a longer discussion.
 - Pangcah/Amis
     - I don’t use “Ami” which is antequated
