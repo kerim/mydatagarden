@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/education/indigenous-style-guides/","updated":"2025-05-03T11:06:30.528+08:00"}
+{"dg-publish":true,"permalink":"/education/indigenous-style-guides/","updated":"2025-05-08T10:56:41.499+08:00"}
 ---
 
 Writing about Indigenous issues in English can be tricky, since the language we use continues to change in response to ongoing social movements. For this reason it helps to consult Indigenous style guides on proper usage. Note that not all the guidelines may agree. Some of this may be due to differences in English usage, different colonial histories, or simply personal differences as well. For this reason it is best to consult all the guides as well as the specific group of people you are writing about to ask for advice.
@@ -38,7 +38,7 @@ This is an ever-evolving guide, as my own thinking continues to change in respon
     - However, when talking about a particular ethnic group, I use the term appropriate to that language or dialect.
 	    - Pangcah/Amis: *niyaro*
 	    - Seediq: *alang*
-    - See [my 2018 paper](https://kerim.oxus.net/peer-reviewed-publications) for a longer discussion.
+    - See [my 2018 paper](https://kerim.oxus.net/kerim's%20works/peer%20reviewed%20publications/) for a longer discussion.
 - Pangcah/Amis
     - I don’t use “Ami” which is antequated
     - Generally I use “Pangcah” when talking about Hualien and “Amis” when talking about Taitung, but make a note the first time I use the term that the other is also accepted. - Because the Chinese is “Ameizu” 阿美族 Amis is often seen as a more natural translatin, but when speaking Pangcah, “Pangcah” is used more often in the North, and “Amis” in the South, although there is considerable variation, so one should be attuned to the use of one’s interlocutors. - 16 “officially recognized” ethnic groups
