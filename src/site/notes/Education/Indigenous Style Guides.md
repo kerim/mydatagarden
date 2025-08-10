@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/education/indigenous-style-guides/","updated":"2025-05-08T10:56:41.499+08:00"}
+{"dg-publish":true,"permalink":"/education/indigenous-style-guides/","updated":"2025-08-10T14:42:38.797+02:00"}
 ---
 
 Writing about Indigenous issues in English can be tricky, since the language we use continues to change in response to ongoing social movements. For this reason it helps to consult Indigenous style guides on proper usage. Note that not all the guidelines may agree. Some of this may be due to differences in English usage, different colonial histories, or simply personal differences as well. For this reason it is best to consult all the guides as well as the specific group of people you are writing about to ask for advice.
@@ -16,6 +16,7 @@ Writing about Indigenous issues in English can be tricky, since the language we 
 - [Diversity Style Guide](https://www.diversitystyleguide.com/)
 - [The Indigenous Journalists Association Reporting Guides](https://indigenousjournalists.org/resources/reporting-guides/)
 - [Say it with Respect: A Journalists’ Guide to Reporting on Indigenous & Minoritized Languages, Language Endangerment, and Language Revitalization](https://fpcc.ca/resource/say-it-with-respect/)
+- [Indigenous Peoples Editorial Resource](https://www.ualberta.ca/en/toolkit/communications/editorial-style-guide/indigenous-peoples-editorial-resources.html)
 ## How to Write about Indigenous Taiwanese in English?
 
 This is an ever-evolving guide, as my own thinking continues to change in response to feedback from Indigenous peoples in Taiwan and abroad. Because most of the discussion about this topic is in Chinese, there exist few explicit guides for those writing in English. (This is why it is useful to consult the style guides written by Indigenous peoples in English speaking countres, liste above.) Check back regularly for updates, and don’t be upseet if you publish something only to find that the page has changed afterwards!
