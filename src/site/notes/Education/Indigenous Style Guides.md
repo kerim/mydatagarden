@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/education/indigenous-style-guides/","updated":"2025-08-10T14:42:38.797+02:00"}
+{"dg-publish":true,"permalink":"/education/indigenous-style-guides/","updated":"2025-08-10T20:42:38.797+08:00"}
 ---
 
 Writing about Indigenous issues in English can be tricky, since the language we use continues to change in response to ongoing social movements. For this reason it helps to consult Indigenous style guides on proper usage. Note that not all the guidelines may agree. Some of this may be due to differences in English usage, different colonial histories, or simply personal differences as well. For this reason it is best to consult all the guides as well as the specific group of people you are writing about to ask for advice.
