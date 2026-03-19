@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technology/technology/","updated":"2024-05-22T09:18:54.975+08:00"}
+{"dg-publish":true,"permalink":"/technology/technology/","updated":"2025-05-03T11:11:44.685+08:00"}
 ---
 
 
