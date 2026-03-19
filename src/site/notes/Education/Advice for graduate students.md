@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/education/advice-for-graduate-students/","updated":"2024-09-11T13:30:13.731+08:00"}
+{"dg-publish":true,"permalink":"/education/advice-for-graduate-students/","updated":"2025-04-17T09:58:50.001+08:00"}
 ---
 
 > [!note]  
@@ -46,3 +46,4 @@
 
 - [[Education/Graduate study in visual anthropology\|Graduate study in visual anthropology]]
 - [[Taiwan/International Graduate Study in Taiwan\|International Graduate Study in Taiwan]]
+
